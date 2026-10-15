@@ -1,0 +1,28 @@
+---
+title: "About me"
+description: "Meet your English teacher."
+---
+
+## A little about me
+
+I'm a native English speaker with a PhD in linguistics and extensive experience teaching English.
+
+My background in linguistics helps me explain not just what English speakers say, but why the language works the way it does.
+
+## My approach
+
+I believe effective language teaching combines practical communication with a clear understanding of the language.
+
+My lessons are adapted to each learner. Some people want to sound clearer when speaking; others need confidence in meetings, university seminars or everyday conversation.
+
+We focus on the skills that will make a real difference to you.
+
+## Experience and qualifications
+
+- PhD in linguistics.
+- Extensive English teaching experience.
+- Experience working with international students and professionals.
+- Specialist knowledge of English pronunciation and spoken language.
+
+<!-- Add a portrait, specific experience and any additional
+     qualifications or testimonials you want to highlight. -->

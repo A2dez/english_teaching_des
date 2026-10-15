@@ -1,0 +1,31 @@
+---
+title: "Prices"
+description: "Lesson formats and pricing."
+---
+
+I offer individual lessons tailored to your goals.
+
+## Individual lessons
+
+| Lesson | Duration | Price |
+|---|---:|---:|
+| English lesson | 60 minutes | €[price] |
+| Pronunciation coaching | 60 minutes | €[price] |
+| Professional English | 60 minutes | €[price] |
+
+## Small-group lessons
+
+Learning with a friend or colleague can be a useful and cost-effective option.
+
+Contact me for pricing for two or more learners.
+
+## Lesson format
+
+- Online lessons: [platform and details]
+- In-person lessons: [location and availability]
+- Payment: [payment arrangements]
+- Cancellation: [your cancellation policy]
+
+Have a question about which option is right for you?
+
+[Contact me](contact.qmd) to discuss your goals.

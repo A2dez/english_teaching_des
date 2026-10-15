@@ -1,0 +1,76 @@
+---
+title: "English lessons that make a difference"
+description: "Personalised English teaching and pronunciation coaching."
+page-layout: full
+---
+
+::: {.hero-section}
+
+::: {.hero-copy}
+
+# Speak English with greater confidence.
+
+Personalised English lessons, pronunciation coaching and communication training for international students and professionals.
+
+[Explore lessons](lessons.qmd){.btn .btn-primary .btn-lg}
+
+[About me](about.qmd){.btn .btn-outline-secondary .btn-lg}
+
+:::
+
+::: {.hero-image}
+
+![English teaching and conversation](images/teaching.jpg)
+
+:::
+
+:::
+
+## English for your goals
+
+::: {.service-grid}
+
+::: {.service-card}
+
+### Pronunciation
+
+Develop clearer, more natural speech. Work on individual sounds, connected speech, rhythm and intonation.
+
+[Learn more](lessons.qmd#pronunciation)
+
+:::
+
+::: {.service-card}
+
+### Professional English
+
+Communicate more effectively in meetings, interviews, presentations and everyday professional situations.
+
+[Learn more](lessons.qmd#professional-english)
+
+:::
+
+::: {.service-card}
+
+### General English
+
+Build fluency, vocabulary and confidence through lessons shaped around your needs and interests.
+
+[Learn more](lessons.qmd#general-english)
+
+:::
+
+:::
+
+## Why learn with me?
+
+- Native English speaker with a PhD in linguistics.
+- Extensive experience teaching English.
+- A practical, personalised approach to language learning.
+- Lessons informed by an understanding of how English actually works.
+
+## Let's talk about your English
+
+Tell me what you'd like to improve, and we can discuss the right approach for you.
+
+[Get in touch](contact.qmd){.btn .btn-primary .btn-lg}

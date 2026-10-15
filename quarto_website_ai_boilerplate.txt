@@ -1,0 +1,587 @@
+You can build almost the entire website in Quarto boilerplate. Given that you already write R and know Quarto documents, you don't need to learn a new web framework or start writing HTML from scratch.
+
+I'd build your English-teaching website as a Quarto website with a small amount of custom CSS, using Markdown for the content, YAML for the configuration, and HTML only where you need something more specialised.
+
+The aim is to get you to a working mock-up quickly, with all the code supplied and only the business-specific details left for you to edit.
+
+## 1. What the finished site could look like
+
+[SiteFast.dev — Clean Business Websites in 2–3 Days](https://images.openai.com/static-rsc-4/Z10x18xB1cc0qGrX4E5W5aNt3Gnmkx87T6syqeEzih55sxH7NoGbVdvBrsvXGzCzcJ1h9nHN8KP-DQMLmJ7Y9Osk8ibr3jRB0s4IN55sMnI9xXUaJJkdMbdNLoSLQkRZajEmtdb5ZZQDQiTR-UYSgXX-Wy6LI2XVeI4nHyJUn3o?purpose=inline)
+
+[sitefast.dev](https://sitefast.dev/)
+
+Visual direction: clean, professional, editorial, with blue accents and plenty of white space.
+
+I'd position it around your particular strengths: native-speaker English teaching, your linguistics PhD, extensive teaching experience, pronunciation expertise, and communication skills for international professionals and students.
+
+The website should sell the benefits of working with you, rather than read like an academic CV.
+
+## 2. The site structure
+
+I'd start with five pages. That's enough to look like a proper business without creating a maintenance burden.
+
+Home — `index.qmd`
+
+A clear headline, who you teach, your main services and a prominent contact link.
+
+Lessons — `lessons.qmd`
+
+General English, pronunciation, professional communication, interview preparation and academic English.
+
+About — `about.qmd`
+
+Your qualifications, experience, approach to teaching and what makes your lessons different.
+
+Prices — `prices.qmd`
+
+Rates, lesson lengths, packages and online versus in-person options.
+
+Contact — `contact.qmd`
+
+Email, enquiry instructions and eventually a booking form.
+
+I'd also leave room for a blog or resources section later. Quarto makes that particularly convenient if you want to publish articles on English pronunciation, communication or language learning.
+
+## 3. The project structure
+
+Create a new Quarto website project in RStudio, or create these files in a folder yourself. The project would look like this:
+
+```
+english-teaching/
+├── _quarto.yml
+├── index.qmd
+├── lessons.qmd
+├── about.qmd
+├── prices.qmd
+├── contact.qmd
+├── styles.css
+└── images/
+    ├── portrait.jpg
+    └── teaching.jpg
+```
+
+You can keep the first version entirely static: no database, no server, no JavaScript framework and no complicated deployment. Quarto renders your pages into ordinary HTML files, ready to host on GitHub Pages, Netlify or another static host.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://quarto.org\&sz=32)
+
+Quarto
+
++1
+
+
+
+## 4. Boilerplate: the configuration file
+
+This is the central file, `_quarto.yml`. It controls the navigation, theme, page defaults, fonts and footer.
+
+```
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "English with [Your Name]"
+  description: "English lessons, pronunciation coaching and communication training."
+  navbar:
+    background: "#ffffff"
+    foreground: "#183153"
+    title: "English with [Your Name]"
+    collapse-below: lg
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Lessons
+        href: lessons.qmd
+      - text: About
+        href: about.qmd
+      - text: Prices
+        href: prices.qmd
+      - text: Contact
+        href: contact.qmd
+
+  page-footer:
+    left: "English with [Your Name] · Ireland"
+    right:
+      - text: Contact
+        href: contact.qmd
+    border: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+```
+
+The `cosmo` theme gives you a reasonable starting point; the CSS below will do most of the work of making it look like your own business rather than a standard Quarto documentation site. Quarto supports both built-in themes and custom CSS.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://quarto.org\&sz=32)
+
+Quarto
+
+
+
+## 5. Boilerplate: the homepage
+
+This is where I'd put most of the design effort. The rest of the site can use simpler layouts.
+
+Create `index.qmd`:
+
+```
+
+---
+title: "English lessons that make a difference"
+description: "Personalised English teaching and pronunciation coaching."
+page-layout: full
+---
+
+::: {.hero-section}
+
+::: {.hero-copy}
+
+# Speak English with greater confidence.
+
+Personalised English lessons, pronunciation coaching and communication training for international students and professionals.
+
+[Explore lessons](lessons.qmd){.btn .btn-primary .btn-lg}
+
+[About me](about.qmd){.btn .btn-outline-secondary .btn-lg}
+
+:::
+
+::: {.hero-image}
+
+![English teaching and conversation](images/teaching.jpg)
+
+:::
+
+:::
+
+## English for your goals
+
+::: {.service-grid}
+
+::: {.service-card}
+
+### Pronunciation
+
+Develop clearer, more natural speech. Work on individual sounds, connected speech, rhythm and intonation.
+
+[Learn more](lessons.qmd#pronunciation)
+
+:::
+
+::: {.service-card}
+
+### Professional English
+
+Communicate more effectively in meetings, interviews, presentations and everyday professional situations.
+
+[Learn more](lessons.qmd#professional-english)
+
+:::
+
+::: {.service-card}
+
+### General English
+
+Build fluency, vocabulary and confidence through lessons shaped around your needs and interests.
+
+[Learn more](lessons.qmd#general-english)
+
+:::
+
+:::
+
+## Why learn with me?
+
+- Native English speaker with a PhD in linguistics.
+- Extensive experience teaching English.
+- A practical, personalised approach to language learning.
+- Lessons informed by an understanding of how English actually works.
+
+## Let's talk about your English
+
+Tell me what you'd like to improve, and we can discuss the right approach for you.
+
+[Get in touch](contact.qmd){.btn .btn-primary .btn-lg}
+
+```
+
+The `:::` syntax is Quarto's fenced-div syntax. It lets you assign CSS classes to groups of Markdown content without having to write a whole page in HTML.
+
+Notice that the homepage isn't stuffed with your qualifications, a long biography and every possible service. It gives visitors three reasons to continue: what you teach, why they should trust you, and how to contact you.
+
+## 6. Boilerplate: the CSS
+
+Create `styles.css`. This is where you can make the site feel deliberately designed. I've used navy blue, a pale blue background and a restrained, professional style.
+
+```
+
+/* ----------------------------------
+   Global styles
+---------------------------------- */
+
+:root {
+  --navy: #183153;
+  --blue: #3268a8;
+  --pale-blue: #edf4fb;
+  --text: #263445;
+  --muted: #66758a;
+  --white: #ffffff;
+}
+
+body {
+  color: var(--text);
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: var(--navy);
+  letter-spacing: -0.025em;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+p {
+  max-width: 75ch;
+}
+
+/* ----------------------------------
+   Homepage hero
+---------------------------------- */
+
+.hero-section {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 4rem 0 5rem;
+}
+
+.hero-copy h1 {
+  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+}
+
+.hero-copy p {
+  font-size: 1.15rem;
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
+.hero-image img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 1rem;
+}
+
+/* ----------------------------------
+   Service cards
+---------------------------------- */
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0 4rem;
+}
+
+.service-card {
+  padding: 1.5rem;
+  border: 1px solid #dce5ef;
+  border-radius: 0.75rem;
+  background: var(--white);
+}
+
+.service-card h3 {
+  margin-top: 0;
+}
+
+.service-card p {
+  color: var(--muted);
+}
+
+.service-card a {
+  font-weight: 600;
+}
+
+/* ----------------------------------
+   Buttons and links
+---------------------------------- */
+
+.btn-primary {
+  background-color: var(--blue);
+  border-color: var(--blue);
+}
+
+.btn-primary:hover {
+  background-color: var(--navy);
+  border-color: var(--navy);
+}
+
+/* ----------------------------------
+   Page width and spacing
+---------------------------------- */
+
+#quarto-content {
+  padding-bottom: 2rem;
+}
+
+.quarto-title-block .quarto-title {
+  color: var(--navy);
+}
+
+/* ----------------------------------
+   Mobile layout
+---------------------------------- */
+
+@media (max-width: 768px) {
+  .hero-section {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 2rem 0 3rem;
+  }
+
+  .hero-image {
+    order: -1;
+  }
+
+  .hero-image img {
+    max-height: 350px;
+    aspect-ratio: 16 / 9;
+  }
+
+  .service-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+```
+
+You can adjust the colours in one place at the top, change the spacing, and tweak the mobile layout without touching your page content.
+
+## 7. Boilerplate for the remaining pages
+
+You don't need a different design system for every page. Keep the content in Markdown and let the shared CSS and configuration take care of the presentation.
+
+### `lessons.qmd`
+
+```
+
+---
+title: "Lessons"
+description: "English lessons tailored to your goals."
+---
+
+I offer individual lessons tailored to your level, priorities and reasons for learning English.
+
+## Pronunciation {#pronunciation}
+
+Improve clarity, intelligibility and confidence when speaking English.
+
+We can work on:
+
+- English vowels and consonants.
+- Connected speech and sound changes.
+- Word stress, sentence stress and rhythm.
+- Intonation and natural-sounding speech.
+- Understanding different English accents.
+
+## Professional English {#professional-english}
+
+Develop the communication skills you need in the workplace.
+
+- Meetings and professional conversations.
+- Presentations and public speaking.
+- Job interviews and networking.
+- Explaining complex ideas clearly.
+- Communicating across cultures.
+
+## General English {#general-english}
+
+Build your fluency and confidence through conversation, listening, vocabulary and focused language work.
+
+Lessons can be adapted to your current level and the situations you encounter in daily life.
+
+## Academic English
+
+Develop the language skills needed to participate confidently in university life.
+
+- Seminar discussion and contributions.
+- Academic presentations.
+- Speaking with lecturers and classmates.
+- Understanding spoken English in lectures.
+
+## How lessons work
+
+1. We discuss your goals and current difficulties.
+2. We identify the most useful areas to work on.
+3. Lessons combine practical activities with targeted feedback.
+4. We review progress and adjust the plan as you improve.
+
+[View prices](prices.qmd) or [get in touch](contact.qmd).
+
+```
+
+### `about.qmd`
+
+```
+
+---
+title: "About me"
+description: "Meet your English teacher."
+---
+
+## A little about me
+
+I'm a native English speaker with a PhD in linguistics and extensive experience teaching English.
+
+My background in linguistics helps me explain not just what English speakers say, but why the language works the way it does.
+
+## My approach
+
+I believe effective language teaching combines practical communication with a clear understanding of the language.
+
+My lessons are adapted to each learner. Some people want to sound clearer when speaking; others need confidence in meetings, university seminars or everyday conversation.
+
+We focus on the skills that will make a real difference to you.
+
+## Experience and qualifications
+
+- PhD in linguistics.
+- Extensive English teaching experience.
+- Experience working with international students and professionals.
+- Specialist knowledge of English pronunciation and spoken language.
+
+<!-- Add a portrait, specific experience and any additional
+     qualifications or testimonials you want to highlight. -->
+
+```
+
+### `prices.qmd`
+
+```
+
+---
+title: "Prices"
+description: "Lesson formats and pricing."
+---
+
+I offer individual lessons tailored to your goals.
+
+## Individual lessons
+
+| Lesson | Duration | Price |
+|---|---:|---:|
+| English lesson | 60 minutes | €[price] |
+| Pronunciation coaching | 60 minutes | €[price] |
+| Professional English | 60 minutes | €[price] |
+
+## Small-group lessons
+
+Learning with a friend or colleague can be a useful and cost-effective option.
+
+Contact me for pricing for two or more learners.
+
+## Lesson format
+
+- Online lessons: [platform and details]
+- In-person lessons: [location and availability]
+- Payment: [payment arrangements]
+- Cancellation: [your cancellation policy]
+
+Have a question about which option is right for you?
+
+[Contact me](contact.qmd) to discuss your goals.
+
+```
+
+### `contact.qmd`
+
+```
+
+---
+title: "Get in touch"
+description: "Enquire about English lessons."
+---
+
+## Tell me what you'd like to improve
+
+Whether you want to work on pronunciation, professional communication or general fluency, I'm happy to discuss your goals.
+
+The easiest way to reach me is by email:
+
+**[your.email@example.com](mailto:your.email@example.com)**
+
+When you get in touch, it helps to mention:
+
+- What you'd like to improve.
+- Whether you prefer online or in-person lessons.
+- Your availability.
+
+I aim to respond within [your response time].
+
+```
+
+These pages are functional starter content rather than finished sales copy. Replace the bracketed fields and anything that doesn't reflect the services you actually want to offer.
+
+## 8. How to run it
+
+Once those files are in your project folder, run this in the RStudio Terminal:
+
+```
+quarto preview
+```
+
+Quarto will render the website and open a local preview in your browser. It will refresh as you edit your pages and CSS.
+
+When you're happy with the mock-up, run:
+
+```
+quarto render
+```
+
+The finished static website will be in `_site/`. That's the folder you publish, not your `.qmd` source files. The official [Quarto website guide](https://quarto.org/docs/websites/) explains the workflow and publishing options.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://quarto.org\&sz=32)
+
+Quarto
+
+
+
+## 9. What else can I provide as boilerplate?
+
+Quite a lot. Here's the division of labour I'd recommend.
+
+| Feature                                      | How much I can supply                                                                 |
+| -------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Page structure and navigation                | Essentially all of it                                                                 |
+| Responsive CSS and visual design             | Essentially all of it                                                                 |
+| Homepage and service-page copy               | Full drafts for you to edit                                                           |
+| SEO titles, descriptions and social previews | Configuration and metadata                                                            |
+| Blog / teaching resources                    | A reusable Quarto listing and article template                                        |
+| Testimonials and pricing layouts             | Complete templates                                                                    |
+| Contact form                                 | HTML/layout, plus a third-party form service if you want submissions delivered to you |
+| Booking and payments                         | Integration instructions and suitable external services                               |
+| Hosting and custom domain                    | Configuration and deployment steps                                                    |
+| Analytics and cookie consent                 | Setup guidance and configuration                                                      |
+
+The main distinction is between a mock-up and a working business website. The former can be entirely local and static. A functioning enquiry form, online booking system or payment facility needs an additional service or integration.
+
+## 10. What I'd do next
+
+I'd get the homepage looking right first, then use that design consistently across the other pages. Before investing time in booking systems, analytics or anything complicated, I'd make sure the site communicates your offer clearly and works on mobile.
+
+To tailor the next version, the most useful decision is the visual direction and target audience.

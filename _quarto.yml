@@ -1,0 +1,66 @@
+
+
+
+editor: visual
+
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  site-url: https://a2dez.github.io/english_teaching_des/
+  title: "Learn English with Dr Des"
+  description: "English lessons, pronunciation coaching, and communication training."
+  navbar:
+    background: "#ffffff"
+    foreground: "#183153"
+    title: "Learn English with Dr Des"
+    collapse-below: lg
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Lessons
+        href: lessons.qmd
+      - text: About
+        href: about.qmd
+      - text: Prices
+        href: prices.qmd
+      - text: Contact
+        href: contact.qmd
+
+  page-footer:
+    left: "English with [Your Name] · Ireland"
+    right:
+      - text: Contact
+        href: contact.qmd
+    border: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+# website:
+#   title: "english_teaching_des"
+#   navbar:
+#     left:
+#       - href: index.qmd
+#         text: Home
+#       - about.qmd
+# 
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
+#     toc: true
+
+
