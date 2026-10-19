@@ -4,45 +4,76 @@ description: "Individual English pronunciation coaching and professional communi
 page-layout: full
 ---
 
-::: {.hero}
-::: {.hero-copy}
-<p class="eyebrow">ENGLISH PRONUNCIATION · COMMUNICATION · TRAINING</p>
+:::::: hero
+::: hero-copy
+<p class="eyebrow">
 
-# Speak with greater clarity and confidence.
+English · Fluency · Pronunciation· Communication
 
-I help people communicate more confidently in English — in everyday conversation, academic settings and professional life.
+</p>
 
-With a background in linguistics and extensive teaching experience, I offer practical coaching shaped around your goals.
+![*Learn English online or with me in beautiful County Wicklow*](images/des_brittas_beach-01.png)
 
-[Explore the services](services.qmd){.btn .btn-primary}
-[Get in touch](contact.qmd){.btn .btn-outline-primary}
-:::
+# Expert English coach helping you to be always understood
+
+I help people **communicate more confidently** in English — in everyday conversation, academic settings and professional life.
+
+I offer practical coaching shaped around your needs, either **online or in-person** in beautiful County Wicklow, Ireland.
+
+I also help **English teachers** learn the details they need to help their students.
+
+My background is in linguistics and I have a PhD on English spelling and pronunciation. I've taught English at all levels, since 2007, from beginners to expert.
+
+[Explore the services](services.qmd){.btn .btn-primary} [Get in touch](contact.qmd){.btn .btn-outline-primary}
 
 ::: {.hero-aside}
-<div class="monogram">E<span>.</span></div>
-<p class="aside-note">A thoughtful, practical approach to spoken English.</p>
-:::
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/godLqIam-Og"
+    title="Introduction to my English teaching"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+<p class="aside-note">
+  A thoughtful, practical approach to spoken English.
+</p>
 :::
 
-<div class="intro-band">
-  <p class="intro-lead">English is more than vocabulary and grammar. It is how we connect, explain, persuade and take part.</p>
-</div>
+
+::: intro-band
+<p class="intro-lead">
+
+English pronunciation is the forgotten part of English teaching. Many people can speak and listen, read and writer, but they struggle to be understood when they speak. Understanding native speakers is often a problem natives don't sound like they are reading a text book.\
+</p>
+:::
 
 ## How I can help
 
-::: {.service-grid}
+:::::: service-grid
+::: service-card
+<p class="card-number">
 
-::: {.service-card}
-<p class="card-number">01 / INDIVIDUALS</p>
+01 / INDIVIDUALS
+
+</p>
+
 ## Pronunciation coaching
 
-Work on the sounds, stress, rhythm and connected speech that help make your English clearer and more natural.
+Do you want to be understood better and sound like a native? We'll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.
 
 [Explore pronunciation coaching](services.qmd#pronunciation)
 :::
 
-::: {.service-card}
-<p class="card-number">02 / PROFESSIONALS</p>
+::: service-card
+<p class="card-number">
+
+02 / PROFESSIONALS
+
+</p>
+
 ## Communication at work
 
 Build confidence in meetings, presentations, networking and the everyday conversations that matter professionally.
@@ -50,29 +81,39 @@ Build confidence in meetings, presentations, networking and the everyday convers
 [Explore communication coaching](services.qmd#professional-communication)
 :::
 
-::: {.service-card}
-<p class="card-number">03 / ORGANISATIONS</p>
+::: service-card
+<p class="card-number">
+
+03 / ORGANISATIONS
+
+</p>
+
 ## Workshops and training
 
 Practical English communication workshops for universities, international teams and professional groups.
 
 [Explore workshops](services.qmd#workshops)
 :::
-
-:::
+::::::
 
 ## Linguistic expertise. Practical teaching.
 
 I bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.
 
-::: {.pull-quote}
+::: pull-quote
 The aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.
 :::
 
-<div class="closing-cta">
-  <p class="eyebrow">START A CONVERSATION</p>
-  <h2>What would you like your English to help you do?</h2>
-  Tell me what you want to work on, and we can discuss a suitable approach.
+::: closing-cta
+<p class="eyebrow">
 
-  [Get in touch](contact.qmd){.btn .btn-primary}
-</div>
+START A CONVERSATION
+
+</p>
+
+<h2>What would you like your English to help you do?</h2>
+
+Tell me what you want to work on, and we can discuss a suitable approach.
+
+[Get in touch](contact.qmd){.btn .btn-primary}
+:::

@@ -5,8 +5,8 @@ project:
 website:
   title: "English with Des"
   description: "English pronunciation, communication coaching and workshops."
-  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/"
-  favicon: images/favicon.svg
+  site-url: "https://a2dez.github.io/english_teaching_des/"
+  favicon: images/des_brittas_beach.png
 
   navbar:
     title: "English with Des"
@@ -29,7 +29,7 @@ website:
     center: "English communication, grounded in linguistics."
     right:
       - icon: envelope
-        href: "mailto:YOUR-EMAIL@example.com"
+        href: "mailto:ryand25@tcd.ie"
         aria-label: Email
 
 format:
@@ -44,3 +44,4 @@ format:
 
 execute:
   freeze: auto
+  
