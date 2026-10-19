@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/prices.html</loc>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/services.html</loc>
+    <lastmod>2026-10-19T11:25:03.294Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/prices.html</loc>
     <lastmod>2026-10-19T11:14:25.165Z</lastmod>
   </url>
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/index.html</loc>
-    <lastmod>2026-10-19T11:14:25.163Z</lastmod>
-  </url>
-  <url>
-    <loc>https://a2dez.github.io/english_teaching_des/about.html</loc>
-    <lastmod>2026-10-19T11:14:25.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://a2dez.github.io/english_teaching_des/contact.html</loc>
-    <lastmod>2026-10-19T11:14:25.162Z</lastmod>
-  </url>
-  <url>
-    <loc>https://a2dez.github.io/english_teaching_des/lessons.html</loc>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/lessons.html</loc>
     <lastmod>2026-10-19T11:14:25.164Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html</loc>
+    <lastmod>2026-10-19T11:25:03.284Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc>
+    <lastmod>2026-10-19T11:25:03.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/index.html</loc>
+    <lastmod>2026-10-19T11:25:03.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/posts/2026-10-19-connected-speech.html</loc>
+    <lastmod>2026-10-19T11:25:03.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/resources.html</loc>
+    <lastmod>2026-10-19T11:25:03.274Z</lastmod>
   </url>
 </urlset>

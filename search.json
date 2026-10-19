@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "WORKING TOGETHER"
+  },
+  {
+    "objectID": "services.html#pronunciation",
+    "href": "services.html#pronunciation",
+    "title": "Services",
+    "section": "Pronunciation coaching",
+    "text": "Pronunciation coaching\nOne-to-one sessions for people who want to speak English more clearly, confidently and naturally.\nWe can work on:\n\nIndividual sounds and the contrasts that matter for intelligibility.\nWord stress, sentence stress and rhythm.\nConnected speech, including how words change when people speak naturally.\nListening awareness and strategies for understanding different English accents.\nPronunciation in the situations where you actually need to use English.\n\nSessions are tailored to your existing English, priorities and goals. The aim is effective communication, not accent elimination.\nFormat: Online or in person — edit to reflect your offering.\nRate: €[ADD RATE] per hour. Please enquire about paired sessions."
+  },
+  {
+    "objectID": "services.html#professional-communication",
+    "href": "services.html#professional-communication",
+    "title": "Services",
+    "section": "Professional communication",
+    "text": "Professional communication\nFor professionals and postgraduate students who need to participate confidently in English-speaking environments.\nPossible areas of focus include:\n\nSpeaking up and contributing in meetings.\nPresentations and explaining complex ideas.\nNetworking, coffee chats and informal professional conversation.\nInterview communication.\nClear, tactful and effective spoken interaction with colleagues and clients.\n\nWe can build sessions around real scenarios from your studies or work."
+  },
+  {
+    "objectID": "services.html#workshops",
+    "href": "services.html#workshops",
+    "title": "Services",
+    "section": "Workshops",
+    "text": "Workshops\nPractical workshops for universities, employers and organisations working with international students or multilingual teams.\nPossible workshop themes include:\n\nPronunciation and intelligibility for international English users.\nSpoken communication in academic and professional settings.\nMeetings, networking and informal workplace conversation.\nPresentation skills and spoken fluency.\nUnderstanding variation across English accents.\n\nWorkshop content, length and format can be adapted to the group and its needs.\nDiscuss a workshop"
+  },
+  {
+    "objectID": "services.html#not-sure-which-option-fits",
+    "href": "services.html#not-sure-which-option-fits",
+    "title": "Services",
+    "section": "Not sure which option fits?",
+    "text": "Not sure which option fits?\nSend me a short description of what you want to achieve. We can work out whether individual coaching, a paired session or a workshop is the most appropriate option.\nGet in touch"
+  },
+  {
     "objectID": "prices.html",
     "href": "prices.html",
     "title": "Prices",
@@ -26,76 +61,6 @@
     "title": "Prices",
     "section": "Lesson format",
     "text": "Lesson format\n\nOnline lessons: [platform and details]\nIn-person lessons: [location and availability]\nPayment: [payment arrangements]\nCancellation: [your cancellation policy]\n\nHave a question about which option is right for you?\nContact me to discuss your goals."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "English lessons that make a difference",
-    "section": "",
-    "text": "Personalised English lessons, pronunciation coaching and communication training for international students and professionals.\nExplore lessons\nAbout me\n\n\n\n\n\nEnglish teaching and conversation"
-  },
-  {
-    "objectID": "index.html#english-for-your-goals",
-    "href": "index.html#english-for-your-goals",
-    "title": "English lessons that make a difference",
-    "section": "English for your goals",
-    "text": "English for your goals\n\n\nPronunciation\nDevelop clearer, more natural speech. Work on individual sounds, connected speech, rhythm and intonation.\nLearn more\n\n\nProfessional English\nCommunicate more effectively in meetings, interviews, presentations and everyday professional situations.\nLearn more\n\n\nGeneral English\nBuild fluency, vocabulary and confidence through lessons shaped around your needs and interests.\nLearn more"
-  },
-  {
-    "objectID": "index.html#why-learn-with-me",
-    "href": "index.html#why-learn-with-me",
-    "title": "English lessons that make a difference",
-    "section": "Why learn with me?",
-    "text": "Why learn with me?\n\nNative English speaker with a PhD in linguistics.\nExtensive experience teaching English.\nA practical, personalised approach to language learning.\nLessons informed by an understanding of how English actually works."
-  },
-  {
-    "objectID": "index.html#lets-talk-about-your-english",
-    "href": "index.html#lets-talk-about-your-english",
-    "title": "English lessons that make a difference",
-    "section": "Let’s talk about your English",
-    "text": "Let’s talk about your English\nTell me what you’d like to improve, and we can discuss the right approach for you.\nGet in touch"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "I’m a native English speaker with a PhD in linguistics and extensive experience teaching English.\nMy background in linguistics helps me explain not just what English speakers say, but why the language works the way it does."
-  },
-  {
-    "objectID": "about.html#a-little-about-me",
-    "href": "about.html#a-little-about-me",
-    "title": "About me",
-    "section": "",
-    "text": "I’m a native English speaker with a PhD in linguistics and extensive experience teaching English.\nMy background in linguistics helps me explain not just what English speakers say, but why the language works the way it does."
-  },
-  {
-    "objectID": "about.html#my-approach",
-    "href": "about.html#my-approach",
-    "title": "About me",
-    "section": "My approach",
-    "text": "My approach\nI believe effective language teaching combines practical communication with a clear understanding of the language.\nMy lessons are adapted to each learner. Some people want to sound clearer when speaking; others need confidence in meetings, university seminars or everyday conversation.\nWe focus on the skills that will make a real difference to you."
-  },
-  {
-    "objectID": "about.html#experience-and-qualifications",
-    "href": "about.html#experience-and-qualifications",
-    "title": "About me",
-    "section": "Experience and qualifications",
-    "text": "Experience and qualifications\n\nPhD in linguistics.\nExtensive English teaching experience.\nExperience working with international students and professionals.\nSpecialist knowledge of English pronunciation and spoken language."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Get in touch",
-    "section": "",
-    "text": "Whether you want to work on pronunciation, professional communication or general fluency, I’m happy to discuss your goals.\nThe easiest way to reach me is by email:\nyour.email@example.com\nWhen you get in touch, it helps to mention:\n\nWhat you’d like to improve.\nWhether you prefer online or in-person lessons.\nYour availability.\n\nI aim to respond within [your response time]."
-  },
-  {
-    "objectID": "contact.html#tell-me-what-youd-like-to-improve",
-    "href": "contact.html#tell-me-what-youd-like-to-improve",
-    "title": "Get in touch",
-    "section": "",
-    "text": "Whether you want to work on pronunciation, professional communication or general fluency, I’m happy to discuss your goals.\nThe easiest way to reach me is by email:\nyour.email@example.com\nWhen you get in touch, it helps to mention:\n\nWhat you’d like to improve.\nWhether you prefer online or in-person lessons.\nYour availability.\n\nI aim to respond within [your response time]."
   },
   {
     "objectID": "lessons.html",
@@ -138,5 +103,96 @@
     "title": "Lessons",
     "section": "How lessons work",
     "text": "How lessons work\n\nWe discuss your goals and current difficulties.\nWe identify the most useful areas to work on.\nLessons combine practical activities with targeted feedback.\nWe review progress and adjust the plan as you improve.\n\nView prices or get in touch."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "GET IN TOUCH\n\n\nTell me what you’d like to work on\nIf you’re interested in individual coaching or arranging a workshop, send me an email with a little information about what you need.\nYOUR-EMAIL@example.com\nIt can help to mention:\n\nWhether you’re enquiring for yourself or for an organisation.\nWhat you’d most like to improve or achieve.\nYour preferred format and any relevant timing.\nFor a group enquiry, the approximate number of participants and the workshop length you’re considering.\n\nI’ll reply to discuss possible next steps.\n\nThis site uses an email link rather than an online contact form. Replace the placeholder email address throughout the project before publishing."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ABOUT YOUR TEACHER"
+  },
+  {
+    "objectID": "about.html#my-approach",
+    "href": "about.html#my-approach",
+    "title": "About",
+    "section": "My approach",
+    "text": "My approach\n\n\nSpecific\nWe identify the features of your English that are most relevant to your goals, rather than trying to change everything at once.\n\n\nPractical\nWe work with realistic examples, spoken interaction and the situations you want to handle more confidently.\n\n\nInformed by linguistics\nUnderstanding pronunciation and communication patterns can make practice more focused and explain why certain things happen in spoken English."
+  },
+  {
+    "objectID": "about.html#experience-and-background",
+    "href": "about.html#experience-and-background",
+    "title": "About",
+    "section": "Experience and background",
+    "text": "Experience and background\nUse this section to add a concise, accurate account of your relevant experience. For example:\n\nPhD in Linguistics.\nEnglish language teaching and communication training.\nTeaching and workshop experience in university and professional settings.\nWork with international students and multilingual groups.\n\nBefore publishing: replace or expand these bullets with the specific qualifications, roles and experience you want prospective clients to see. Only include claims you are happy to substantiate.\n\n\nLet’s discuss what you need.\n\nIf you have a question about individual coaching or training for a group, I’d be glad to hear from you.\nContact me"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Speak with greater clarity and confidence.",
+    "section": "",
+    "text": "ENGLISH PRONUNCIATION · COMMUNICATION · TRAINING\n\n\n\nI help people communicate more confidently in English — in everyday conversation, academic settings and professional life.\nWith a background in linguistics and extensive teaching experience, I offer practical coaching shaped around your goals.\nExplore the services Get in touch\n\n\n\n\nE.\n\n\nA thoughtful, practical approach to spoken English."
+  },
+  {
+    "objectID": "index.html#how-i-can-help",
+    "href": "index.html#how-i-can-help",
+    "title": "Speak with greater clarity and confidence.",
+    "section": "How I can help",
+    "text": "How I can help\n\n\n\n01 / INDIVIDUALS\n\n\nPronunciation coaching\nWork on the sounds, stress, rhythm and connected speech that help make your English clearer and more natural.\nExplore pronunciation coaching\n\n\n\n\n02 / PROFESSIONALS\n\n\nCommunication at work\nBuild confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching\n\n\n\n\n03 / ORGANISATIONS\n\n\nWorkshops and training\nPractical English communication workshops for universities, international teams and professional groups.\nExplore workshops"
+  },
+  {
+    "objectID": "index.html#pronunciation-coaching",
+    "href": "index.html#pronunciation-coaching",
+    "title": "Speak with greater clarity and confidence.",
+    "section": "Pronunciation coaching",
+    "text": "Pronunciation coaching\nWork on the sounds, stress, rhythm and connected speech that help make your English clearer and more natural.\nExplore pronunciation coaching"
+  },
+  {
+    "objectID": "index.html#communication-at-work",
+    "href": "index.html#communication-at-work",
+    "title": "Speak with greater clarity and confidence.",
+    "section": "Communication at work",
+    "text": "Communication at work\nBuild confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching"
+  },
+  {
+    "objectID": "index.html#workshops-and-training",
+    "href": "index.html#workshops-and-training",
+    "title": "Speak with greater clarity and confidence.",
+    "section": "Workshops and training",
+    "text": "Workshops and training\nPractical English communication workshops for universities, international teams and professional groups.\nExplore workshops"
+  },
+  {
+    "objectID": "index.html#linguistic-expertise.-practical-teaching.",
+    "href": "index.html#linguistic-expertise.-practical-teaching.",
+    "title": "Speak with greater clarity and confidence.",
+    "section": "Linguistic expertise. Practical teaching.",
+    "text": "Linguistic expertise. Practical teaching.\nI bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.\n\nThe aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.\n\n\n\nSTART A CONVERSATION\n\n\nWhat would you like your English to help you do?\n\nTell me what you want to work on, and we can discuss a suitable approach.\nGet in touch"
+  },
+  {
+    "objectID": "posts/2026-10-19-connected-speech.html",
+    "href": "posts/2026-10-19-connected-speech.html",
+    "title": "What is connected speech?",
+    "section": "",
+    "text": "When people speak naturally, words do not always sound as they appear in a dictionary. Sounds may link across word boundaries, become weaker, or change in predictable ways.\nThis is part of connected speech. Understanding it can help learners both recognise spoken English and make their own speech flow more naturally."
+  },
+  {
+    "objectID": "posts/2026-10-19-connected-speech.html#what-can-happen",
+    "href": "posts/2026-10-19-connected-speech.html#what-can-happen",
+    "title": "What is connected speech?",
+    "section": "What can happen?",
+    "text": "What can happen?\n\nLinking: the end of one word connects smoothly to the beginning of the next.\nWeak forms: common grammatical words may have a reduced vowel when they are unstressed.\nAssimilation: a sound may become more like a neighbouring sound.\nElision: a sound may be omitted in some contexts.\n\nThe details vary by accent, speaking style and context. The goal is not to force every feature into your speech, but to develop awareness and practise the patterns that help you communicate.\nReplace this sample article with your own teaching content before launching, or keep it as a starter example."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "NOTES ON ENGLISH\n\n\nResources\nShort articles and practical explanations about pronunciation, spoken English and professional communication.\nThis page is set up to list posts saved in the posts/ folder. Add a new .qmd file there for each article.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is connected speech?\n\n\n\nPronunciation\n\nSpoken English\n\n\n\nA short introduction to how words change in natural spoken English.\n\n\n\n\n\nOct 19, 2026\n\n\nDes\n\n\n\n\n\nNo matching items"
   }
 ]
