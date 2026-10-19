@@ -1,66 +1,46 @@
-
-
-
-editor: visual
-
-
 project:
   type: website
   output-dir: _site
 
 website:
-  site-url: https://a2dez.github.io/english_teaching_des/
-  title: "Learn English with Dr Des"
-  description: "English lessons, pronunciation coaching, and communication training."
+  title: "English with Des"
+  description: "English pronunciation, communication coaching and workshops."
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/"
+  favicon: images/favicon.svg
+
   navbar:
-    background: "#ffffff"
-    foreground: "#183153"
-    title: "Learn English with Dr Des"
-    collapse-below: lg
-    right:
-      - text: Home
-        href: index.qmd
-      - text: Lessons
-        href: lessons.qmd
-      - text: About
-        href: about.qmd
-      - text: Prices
-        href: prices.qmd
-      - text: Contact
-        href: contact.qmd
+    title: "English with Des"
+    background: "#17324D"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: services.qmd
+        text: Services
+      - href: about.qmd
+        text: About
+      - href: resources.qmd
+        text: Resources
+      - href: contact.qmd
+        text: Contact
 
   page-footer:
-    left: "English with [Your Name] · Ireland"
+    left: "English with Des"
+    center: "English communication, grounded in linguistics."
     right:
-      - text: Contact
-        href: contact.qmd
-    border: true
+      - icon: envelope
+        href: "mailto:YOUR-EMAIL@example.com"
+        aria-label: Email
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - styles.scss
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
-    include-in-header:
-      text: |
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+    code-copy: true
 
-# website:
-#   title: "english_teaching_des"
-#   navbar:
-#     left:
-#       - href: index.qmd
-#         text: Home
-#       - about.qmd
-# 
-# format:
-#   html:
-#     theme:
-#       - cosmo
-#       - brand
-#     css: styles.css
-#     toc: true
-
-
+execute:
+  freeze: auto

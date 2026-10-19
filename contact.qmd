@@ -1,20 +1,25 @@
 ---
-title: "Get in touch"
-description: "Enquire about English lessons."
+title: "Contact"
+description: "Enquire about English coaching, pronunciation sessions and workshops."
 ---
 
-## Tell me what you'd like to improve
+<p class="eyebrow">GET IN TOUCH</p>
 
-Whether you want to work on pronunciation, professional communication or general fluency, I'm happy to discuss your goals.
+# Tell me what you'd like to work on
 
-The easiest way to reach me is by email:
+If you're interested in individual coaching or arranging a workshop, send me an email with a little information about what you need.
 
-**[your.email@example.com](mailto:your.email@example.com)**
+[**YOUR-EMAIL@example.com**](mailto:YOUR-EMAIL@example.com){.email-link}
 
-When you get in touch, it helps to mention:
+It can help to mention:
 
-- What you'd like to improve.
-- Whether you prefer online or in-person lessons.
-- Your availability.
+- Whether you're enquiring for yourself or for an organisation.
+- What you'd most like to improve or achieve.
+- Your preferred format and any relevant timing.
+- For a group enquiry, the approximate number of participants and the workshop length you're considering.
 
-I aim to respond within [your response time].
+I'll reply to discuss possible next steps.
+
+::: {.small-note}
+This site uses an email link rather than an online contact form. Replace the placeholder email address throughout the project before publishing.
+:::

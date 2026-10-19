@@ -1,0 +1,21 @@
+---
+title: "Resources"
+description: "Articles and practical notes on English pronunciation and communication."
+listing:
+  contents:
+    - posts
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---
+
+<p class="eyebrow">NOTES ON ENGLISH</p>
+
+# Resources
+
+Short articles and practical explanations about pronunciation, spoken English and professional communication.
+
+This page is set up to list posts saved in the `posts/` folder. Add a new `.qmd` file there for each article.

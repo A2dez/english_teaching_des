@@ -1,76 +1,78 @@
 ---
-title: "English lessons that make a difference"
-description: "Personalised English teaching and pronunciation coaching."
+title: ""
+description: "Individual English pronunciation coaching and professional communication training."
 page-layout: full
 ---
 
-::: {.hero-section}
-
+::: {.hero}
 ::: {.hero-copy}
+<p class="eyebrow">ENGLISH PRONUNCIATION · COMMUNICATION · TRAINING</p>
 
-# Speak English with greater confidence.
+# Speak with greater clarity and confidence.
 
-Personalised English lessons, pronunciation coaching and communication training for international students and professionals.
+I help people communicate more confidently in English — in everyday conversation, academic settings and professional life.
 
-[Explore lessons](lessons.qmd){.btn .btn-primary .btn-lg}
+With a background in linguistics and extensive teaching experience, I offer practical coaching shaped around your goals.
 
-[About me](about.qmd){.btn .btn-outline-secondary .btn-lg}
-
+[Explore the services](services.qmd){.btn .btn-primary}
+[Get in touch](contact.qmd){.btn .btn-outline-primary}
 :::
 
-::: {.hero-image}
-
-![English teaching and conversation](images/teaching.jpg)
-
+::: {.hero-aside}
+<div class="monogram">E<span>.</span></div>
+<p class="aside-note">A thoughtful, practical approach to spoken English.</p>
+:::
 :::
 
-:::
+<div class="intro-band">
+  <p class="intro-lead">English is more than vocabulary and grammar. It is how we connect, explain, persuade and take part.</p>
+</div>
 
-## English for your goals
+## How I can help
 
 ::: {.service-grid}
 
 ::: {.service-card}
+<p class="card-number">01 / INDIVIDUALS</p>
+## Pronunciation coaching
 
-### Pronunciation
+Work on the sounds, stress, rhythm and connected speech that help make your English clearer and more natural.
 
-Develop clearer, more natural speech. Work on individual sounds, connected speech, rhythm and intonation.
-
-[Learn more](lessons.qmd#pronunciation)
-
+[Explore pronunciation coaching](services.qmd#pronunciation)
 :::
 
 ::: {.service-card}
+<p class="card-number">02 / PROFESSIONALS</p>
+## Communication at work
 
-### Professional English
+Build confidence in meetings, presentations, networking and the everyday conversations that matter professionally.
 
-Communicate more effectively in meetings, interviews, presentations and everyday professional situations.
-
-[Learn more](lessons.qmd#professional-english)
-
+[Explore communication coaching](services.qmd#professional-communication)
 :::
 
 ::: {.service-card}
+<p class="card-number">03 / ORGANISATIONS</p>
+## Workshops and training
 
-### General English
+Practical English communication workshops for universities, international teams and professional groups.
 
-Build fluency, vocabulary and confidence through lessons shaped around your needs and interests.
-
-[Learn more](lessons.qmd#general-english)
-
+[Explore workshops](services.qmd#workshops)
 :::
 
 :::
 
-## Why learn with me?
+## Linguistic expertise. Practical teaching.
 
-- Native English speaker with a PhD in linguistics.
-- Extensive experience teaching English.
-- A practical, personalised approach to language learning.
-- Lessons informed by an understanding of how English actually works.
+I bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.
 
-## Let's talk about your English
+::: {.pull-quote}
+The aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.
+:::
 
-Tell me what you'd like to improve, and we can discuss the right approach for you.
+<div class="closing-cta">
+  <p class="eyebrow">START A CONVERSATION</p>
+  <h2>What would you like your English to help you do?</h2>
+  Tell me what you want to work on, and we can discuss a suitable approach.
 
-[Get in touch](contact.qmd){.btn .btn-primary .btn-lg}
+  [Get in touch](contact.qmd){.btn .btn-primary}
+</div>

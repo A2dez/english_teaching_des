@@ -1,0 +1,276 @@
+/*-- scss:defaults --*/
+
+// Edit these variables to change the site's visual identity.
+$primary: #1d5275;
+$secondary: #687987;
+$body-bg: #ffffff;
+$body-color: #243444;
+$link-color: #1d5275;
+$font-family-sans-serif: "Aptos", "Segoe UI", Arial, sans-serif;
+$headings-font-family: Georgia, "Times New Roman", serif;
+$headings-font-weight: 500;
+$headings-color: #17324d;
+$border-radius: 0.25rem;
+
+/*-- scss:rules --*/
+
+:root {
+  --ink: #17324d;
+  --blue: #1d5275;
+  --muted: #637586;
+  --line: #dbe3e9;
+  --pale: #f4f7f9;
+  --warm: #f8f6f1;
+}
+
+body {
+  line-height: 1.75;
+  letter-spacing: 0.005em;
+}
+
+p, li {
+  max-width: 76ch;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: clamp(2.5rem, 5.2vw, 4.6rem);
+  margin-bottom: 1.4rem;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1rem;
+  font-size: clamp(1.7rem, 3vw, 2.35rem);
+}
+
+h3 {
+  font-size: 1.35rem;
+}
+
+.navbar {
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+  letter-spacing: 0;
+}
+
+.navbar-brand {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+.navbar .nav-link {
+  font-size: 0.94rem;
+}
+
+#quarto-content {
+  padding-top: 1.4rem;
+}
+
+.quarto-title-block .title {
+  font-size: clamp(2.4rem, 5vw, 4rem);
+}
+
+.eyebrow {
+  color: var(--blue);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(200px, 0.65fr);
+  align-items: center;
+  gap: clamp(2rem, 6vw, 5.5rem);
+  padding: clamp(2rem, 5vw, 4.5rem) 0 4rem;
+}
+
+.hero-copy h1 {
+  max-width: 12ch;
+  margin-top: 0;
+}
+
+.hero-copy > p:not(.eyebrow) {
+  color: #45596a;
+  font-size: 1.15rem;
+  max-width: 58ch;
+}
+
+.hero-aside {
+  min-height: 290px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background: var(--warm);
+  border-top: 4px solid var(--blue);
+}
+
+.monogram {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(6rem, 12vw, 10rem);
+  line-height: 1;
+  color: var(--ink);
+}
+
+.monogram span {
+  color: #b77b45;
+}
+
+.aside-note {
+  text-align: center;
+  color: var(--muted);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-style: italic;
+  max-width: 22ch;
+  margin-top: 1.25rem;
+}
+
+.btn {
+  border-radius: 0.2rem;
+  padding: 0.72rem 1.05rem;
+  font-weight: 600;
+  margin: 0.25rem 0.4rem 0.25rem 0;
+}
+
+.intro-band {
+  background: var(--pale);
+  padding: 2rem clamp(1.25rem, 4vw, 3rem);
+  margin: 0 0 3.5rem;
+  border-left: 4px solid var(--blue);
+}
+
+.intro-lead {
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.35rem, 2.6vw, 2rem);
+  line-height: 1.45;
+  max-width: 40ch;
+  margin: 0;
+}
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin: 2rem 0 3.5rem;
+}
+
+.service-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--blue);
+  padding: 1.4rem;
+}
+
+.service-card h2 {
+  font-size: 1.45rem;
+  margin-top: 0.8rem;
+}
+
+.service-card p {
+  font-size: 0.97rem;
+}
+
+.card-number {
+  color: var(--muted);
+  font-size: 0.72rem !important;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.pull-quote {
+  margin: 2.5rem 0;
+  padding: 0.8rem 0 0.8rem 1.5rem;
+  border-left: 3px solid #b77b45;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.3rem, 2.5vw, 1.8rem);
+  font-style: italic;
+  line-height: 1.5;
+  max-width: 44ch;
+}
+
+.closing-cta {
+  background: var(--warm);
+  padding: clamp(1.5rem, 4vw, 3rem);
+  margin: 3.5rem 0 2rem;
+}
+
+.closing-cta h2 {
+  margin-top: 0.25rem;
+  max-width: 24ch;
+}
+
+.principle-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.principle {
+  padding-top: 1rem;
+  border-top: 2px solid var(--line);
+}
+
+.principle h3 {
+  margin-top: 0;
+}
+
+.email-link {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.3rem, 3vw, 2rem);
+  overflow-wrap: anywhere;
+}
+
+.small-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+  border-top: 1px solid var(--line);
+  margin-top: 3rem;
+  padding-top: 1rem;
+}
+
+#quarto-content .quarto-listing {
+  margin-top: 2rem;
+}
+
+footer.footer {
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+}
+
+@media (max-width: 767px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding-top: 1.5rem;
+  }
+
+  .hero-aside {
+    min-height: 220px;
+  }
+
+  .service-grid,
+  .principle-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .intro-band {
+    margin-bottom: 2.5rem;
+  }
+}

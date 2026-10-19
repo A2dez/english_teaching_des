@@ -1,0 +1,21 @@
+---
+title: "What is connected speech?"
+description: "A short introduction to how words change in natural spoken English."
+date: "2026-10-19"
+categories: [Pronunciation, Spoken English]
+---
+
+When people speak naturally, words do not always sound as they appear in a dictionary. Sounds may link across word boundaries, become weaker, or change in predictable ways.
+
+This is part of **connected speech**. Understanding it can help learners both recognise spoken English and make their own speech flow more naturally.
+
+## What can happen?
+
+- **Linking:** the end of one word connects smoothly to the beginning of the next.
+- **Weak forms:** common grammatical words may have a reduced vowel when they are unstressed.
+- **Assimilation:** a sound may become more like a neighbouring sound.
+- **Elision:** a sound may be omitted in some contexts.
+
+The details vary by accent, speaking style and context. The goal is not to force every feature into your speech, but to develop awareness and practise the patterns that help you communicate.
+
+*Replace this sample article with your own teaching content before launching, or keep it as a starter example.*

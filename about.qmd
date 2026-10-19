@@ -1,28 +1,54 @@
 ---
-title: "About me"
-description: "Meet your English teacher."
+title: "About"
+description: "Meet your English teacher and learn about the teaching approach."
 ---
 
-## A little about me
+<p class="eyebrow">ABOUT YOUR TEACHER</p>
 
-I'm a native English speaker with a PhD in linguistics and extensive experience teaching English.
+# Linguistic expertise, grounded in practice
 
-My background in linguistics helps me explain not just what English speakers say, but why the language works the way it does.
+I'm Des, an English teacher with a PhD in linguistics and extensive experience teaching English and communication to international learners.
+
+My work brings together an interest in how language works and a practical focus on what people need to do with English: make themselves understood, take part in conversations, and communicate effectively in academic and professional contexts.
 
 ## My approach
 
-I believe effective language teaching combines practical communication with a clear understanding of the language.
+::: {.principle-grid}
 
-My lessons are adapted to each learner. Some people want to sound clearer when speaking; others need confidence in meetings, university seminars or everyday conversation.
+::: {.principle}
+### Specific
 
-We focus on the skills that will make a real difference to you.
+We identify the features of your English that are most relevant to your goals, rather than trying to change everything at once.
+:::
 
-## Experience and qualifications
+::: {.principle}
+### Practical
 
-- PhD in linguistics.
-- Extensive English teaching experience.
-- Experience working with international students and professionals.
-- Specialist knowledge of English pronunciation and spoken language.
+We work with realistic examples, spoken interaction and the situations you want to handle more confidently.
+:::
 
-<!-- Add a portrait, specific experience and any additional
-     qualifications or testimonials you want to highlight. -->
+::: {.principle}
+### Informed by linguistics
+
+Understanding pronunciation and communication patterns can make practice more focused and explain why certain things happen in spoken English.
+:::
+
+:::
+
+## Experience and background
+
+Use this section to add a concise, accurate account of your relevant experience. For example:
+
+- PhD in Linguistics.
+- English language teaching and communication training.
+- Teaching and workshop experience in university and professional settings.
+- Work with international students and multilingual groups.
+
+**Before publishing:** replace or expand these bullets with the specific qualifications, roles and experience you want prospective clients to see. Only include claims you are happy to substantiate.
+
+<div class="closing-cta">
+  <h2>Let's discuss what you need.</h2>
+  If you have a question about individual coaching or training for a group, I'd be glad to hear from you.
+
+  [Contact me](contact.qmd){.btn .btn-primary}
+</div>
