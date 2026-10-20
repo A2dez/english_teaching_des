@@ -4,49 +4,57 @@ description: "Individual English pronunciation coaching and professional communi
 page-layout: full
 ---
 
-:::::: hero
-::: hero-copy
+::::::::::::: hero
+:::::::::::: hero-copy
 <p class="eyebrow">
 
-English · Fluency · Pronunciation· Communication
+English · Pronunciation · Communication · Fluency
 
 </p>
 
-![*Learn English online or with me in beautiful County Wicklow*](images/des_brittas_beach-01.png)
+# Expert English coach helping you to be better understood
 
-# Expert English coach helping you to be always understood
+![*Learn English online, in your office, or with me in beautiful County Wicklow*](images/des_brittas_beach-01.png){fig-align="center"}
 
-I help people **communicate more confidently** in English — in everyday conversation, academic settings and professional life.
+I help people **communicate more confidently** in English — in everyday life, academic settings, and professional environments.
 
-I offer practical coaching shaped around your needs, either **online or in-person** in beautiful County Wicklow, Ireland.
+I provide several coaching services, for individuals, small classes, and corporate groups, either online, in your office, or with me in beautiful County Wicklow.
+
+-   **Communication** coaching
+-   [**Pronunciation**](services.qmd#pronunciation) coaching
+-   Classes tailored to your needs.
+-   **In-person classes in Wicklow**, mixing classwork with time spent doing stuff in town, or hiking the hills and gorgeous coastline.
+-   **Accommodation** can be arranged in a top-rated **local Airbnb**.
+
+but I can draw upon two decades of teaching experience to shape **practical** **classes around your needs**,
+
+We can meet either **online or in-person** in beautiful County Wicklow, Ireland, where we can **arrange accommodation** for you in a top-rated Airbnb.
+
+My background is in linguistics and I have a **PhD on English spelling and pronunciation**. I've taught English at all levels, since 2007, from beginners to expert, in schools, businesses and university.
 
 I also help **English teachers** learn the details they need to help their students.
 
-My background is in linguistics and I have a PhD on English spelling and pronunciation. I've taught English at all levels, since 2007, from beginners to expert.
-
 [Explore the services](services.qmd){.btn .btn-primary} [Get in touch](contact.qmd){.btn .btn-outline-primary}
 
-::: {.hero-aside}
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/godLqIam-Og"
-    title="Introduction to my English teaching"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
-<p class="aside-note">
-  A thoughtful, practical approach to spoken English.
-</p>
+:::: hero-aside
+::: video-container
+<iframe src="https://www.youtube.com/embed/godLqIam-Og" title="Introduction to my English teaching" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 :::
 
+<p class="aside-note">
+
+A thoughtful, practical approach to spoken English.
+
+</p>
+::::
 
 ::: intro-band
 <p class="intro-lead">
 
-English pronunciation is the forgotten part of English teaching. Many people can speak and listen, read and writer, but they struggle to be understood when they speak. Understanding native speakers is often a problem natives don't sound like they are reading a text book.\
+English pronunciation is the forgotten part of English teaching. Many people can speak and listen, read and writer, but they struggle to be understood when they speak. That's my speciality. I can also train you to understand native speakers even if they appear to speak extra fast.\
+
 </p>
 :::
 
@@ -117,3 +125,5 @@ Tell me what you want to work on, and we can discuss a suitable approach.
 
 [Get in touch](contact.qmd){.btn .btn-primary}
 :::
+::::::::::::
+:::::::::::::

@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/services.html</loc>
-    <lastmod>2026-10-19T11:25:03.294Z</lastmod>
+    <loc>https://a2dez.github.io/english_teaching_des/to_do_list.html</loc>
+    <lastmod>2026-10-19T16:29:41.727Z</lastmod>
   </url>
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/prices.html</loc>
-    <lastmod>2026-10-19T11:14:25.165Z</lastmod>
+    <loc>https://a2dez.github.io/english_teaching_des/resources.html</loc>
+    <lastmod>2026-10-19T11:25:03.274Z</lastmod>
   </url>
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/lessons.html</loc>
-    <lastmod>2026-10-19T11:14:25.164Z</lastmod>
+    <loc>https://a2dez.github.io/english_teaching_des/posts/2026-10-19-connected-speech.html</loc>
+    <lastmod>2026-10-19T11:25:03.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://a2dez.github.io/english_teaching_des/index.html</loc>
+    <lastmod>2026-10-20T14:46:01.613Z</lastmod>
   </url>
   <url>
     <loc>https://a2dez.github.io/english_teaching_des/contact.html</loc>
@@ -18,18 +22,26 @@
   </url>
   <url>
     <loc>https://a2dez.github.io/english_teaching_des/about.html</loc>
-    <lastmod>2026-10-19T11:45:46.938Z</lastmod>
+    <lastmod>2026-10-19T15:54:23.344Z</lastmod>
   </url>
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/index.html</loc>
-    <lastmod>2026-10-19T13:56:44.485Z</lastmod>
+    <loc>https://a2dez.github.io/english_teaching_des/booking.html</loc>
+    <lastmod>2026-10-20T14:33:50.653Z</lastmod>
   </url>
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/posts/2026-10-19-connected-speech.html</loc>
-    <lastmod>2026-10-19T11:25:03.324Z</lastmod>
+    <loc>https://a2dez.github.io/english_teaching_des/cv.html</loc>
+    <lastmod>2026-10-20T14:26:28.888Z</lastmod>
   </url>
   <url>
-    <loc>https://a2dez.github.io/english_teaching_des/resources.html</loc>
-    <lastmod>2026-10-19T11:25:03.274Z</lastmod>
+    <loc>https://a2dez.github.io/english_teaching_des/lessons.html</loc>
+    <lastmod>2026-10-19T11:14:25.164Z</lastmod>
+  </url>
+  <url>
+    <loc>https://a2dez.github.io/english_teaching_des/prices.html</loc>
+    <lastmod>2026-10-19T11:14:25.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://a2dez.github.io/english_teaching_des/services.html</loc>
+    <lastmod>2026-10-19T11:25:03.294Z</lastmod>
   </url>
 </urlset>

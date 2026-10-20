@@ -1,17 +1,21 @@
 ---
-title: "About"
+title: "About me"
 description: "Meet your English teacher and learn about the teaching approach."
 ---
 
 <p class="eyebrow">
 
-ABOUT YOUR TEACHER
+I'm a vastly experienced English teacher with a passion for detail and over 10,000 hours of classroom experience. I love absolutely everything about the language and I love people too so teaching is a constant joy for me.
+
+I teach general English, communication strategies and I coach individuals to pronounce English more clearly.
+
+My undergraduate degree was split between English literature and mathematics, and later I found my
 
 </p>
 
-# Linguistic expertise, grounded in practice
+# Practical English lessons grounded in a deep understanding of the language
 
-I'm Des, an English teacher with a PhD in linguistics and extensive experience teaching English and communication to international learners.
+I'm Dr Des Ryan, an English teacher with a PhD in linguistics and over 10,000 hours of classroom experience teaching English to all levels.
 
 My work brings together an interest in how language works and a practical focus on what people need to do with English: make themselves understood, take part in conversations, and communicate effectively in academic and professional contexts.
 

@@ -17,13 +17,23 @@ website:
         text: Home
       - href: services.qmd
         text: Services
-      - href: about.qmd
+      - href: cv.qmd
         text: About
       - href: resources.qmd
         text: Resources
       - href: contact.qmd
         text: Contact
-
+      - href: booking.qmd
+        text: Bookings
+        
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/drdesryan/
+        aria-label: LinkedIn
+      - icon: youtube
+        href: https://www.youtube.com/@desryan1603
+        aria-label: YouTube
+ 
   page-footer:
     left: "English with Des"
     center: "English communication, grounded in linguistics."

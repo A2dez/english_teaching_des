@@ -1,0 +1,27 @@
+---
+title: "Bookings"
+editor: visual
+description: "Book a 60-minute English lesson with Dr Des Ryan."
+---
+
+Choose the lesson that suits you and book a time that works for you. Payment is made securely online when you book.
+
+## Available lessons
+
+-   **Online English lesson** — 60 minutes, via video call.
+-   **In-person English lesson** — 60 minutes, at the agreed location.
+
+## Choose a time
+
+
+<p><a href="https://calendly.com/a2dez-com/single-class-in-person" target="_blank">Book a class now</a></p>
+
+
+```{=html}
+<div class="calendly-inline-widget"
+     data-url="https://calendly.com/a2dez-com"
+     style="min-width:320px;height:200px;">
+</div>
+<script src="https://assets.calendly.com/assets/external/widget.js" async></script>
+```
+

@@ -1,0 +1,107 @@
+---
+title: "About Des"
+subtitle: "English language teaching · Linguistics · Communication"
+# description: "Meet Dr Des Ryan, an English language teacher and linguist based in Wicklow, Ireland."
+page-layout: article
+---
+
+<p><a href="https://calendly.com/a2dez-com/single-class-in-person" target="_blank">Test booking link</a></p>
+
+::: {.lead}
+**I help people use English with greater confidence, clarity and control — whether they are preparing for university, developing their professional communication, or working on the finer points of spoken English.**
+:::
+
+I’m **Dr Des Ryan**, an English language teacher and linguist with extensive experience teaching international learners and university students. I hold a PhD in Linguistics from Trinity College Dublin and have taught English since 2007, working with learners from beginner to advanced level.
+
+My approach combines practical teaching with a detailed understanding of how English works. I explain the patterns behind pronunciation, grammar and spelling, then help you apply them through structured practice and feedback.
+
+[Get in touch by email](mailto:ryand25@tcd.ie){.btn .btn-primary} · [LinkedIn](https://www.linkedin.com/in/drdesryan/){target="_blank"} · [Academic profile and papers](https://tcd.academia.edu/DesRyan){target="_blank"}
+
+## What I can help you with
+
+::: {.columns}
+::: {.column width="50%"}
+### Spoken English and pronunciation
+
+Work on clarity, intelligibility, rhythm and connected speech. Understand not just *what* to practise, but why particular sounds and patterns can be difficult.
+:::
+::: {.column width="50%"}
+### Academic English
+
+Develop presentations, seminar contributions, essays and research communication. Practise organising ideas and expressing complex points clearly.
+:::
+::: {.column width="50%"}
+### Professional communication
+
+Prepare for meetings, interviews, workplace conversations and presentations. Build language that is clear, appropriate and natural for your context.
+:::
+::: {.column width="50%"}
+### Grammar, vocabulary and writing
+
+Get clear explanations and targeted practice to improve accuracy, range and confidence in written and spoken English.
+:::
+:::
+
+## Teaching experience
+
+### English language teacher
+*2007–present*
+
+I have taught English to learners at a range of levels, designing lessons in speaking, listening, pronunciation, grammar and writing. I adapt materials and explanations to each learner’s goals, existing knowledge and areas for development.
+
+### University lecturer and academic skills tutor
+*UCD, Trinity College Dublin, TU Dublin and University of Galway · 2012–2017*
+
+I taught academic writing, research skills and communication to undergraduate and postgraduate students. This included helping students structure essays, prepare presentations, communicate research and approach academic study with greater confidence.
+
+### Machine learning / voicebuilding engineer
+*Apple · 2020–2024*
+
+I worked on improving the naturalness of English speech for Siri. This technical role drew on linguistic analysis and strengthened my interest in pronunciation, spoken language and what makes speech sound clear and natural. It gives me a useful perspective on the relationship between the way English is described and the way it is actually spoken.
+
+### Tour guide
+*Rome and Dublin · 2009–2011*
+
+Guiding international groups developed my skills in storytelling, public speaking and explaining unfamiliar ideas to people from different backgrounds.
+
+## Academic background
+
+- **PhD in Linguistics**, Trinity College Dublin — research on how English spelling is formed and how spelling relates to sound and word structure.
+- **MSc in Linguistics (Distinction)**, University of Edinburgh.
+- **Higher Diploma in Data Analytics (Distinction)**, National College of Ireland.
+- **BA in Mathematics (First Class Honours)**, Trinity College Dublin.
+- **BA in English Literature**, Trinity College Dublin.
+
+My doctoral research was supported by the Irish Research Council. It investigated the principles that shape English spelling, including the ways spelling represents pronunciation, distinguishes words and preserves relationships between related forms.
+
+## Selected publications and research
+
+My academic work focuses on English spelling and writing systems. That research also informs the way I teach: English is easier to understand when learners can see the patterns behind what might otherwise seem arbitrary.
+
+- **Ryan, Des.** *Principles of English Spelling Formation.* PhD thesis, Trinity College Dublin, 2018. [Read the thesis in Trinity’s research repository](http://hdl.handle.net/2262/82678){target="_blank"}.
+- **Cook, Vivian and Des Ryan (eds.).** *The Routledge Handbook of the English Writing System.* Routledge, 2016.
+- **Ryan, Des.** “Google Doodles: Evidence of How Graphemes’ Colour, Shape, Size and Position Can Interact to Make Writing Multidimensional.” *Writing Systems Research*, 2015.
+- **Ryan, Des.** “Grammaphonology: A New Theory of English Spelling.” *SKASE Journal of Theoretical Linguistics*, 2011.
+- **Ryan, Des.** “Linguists’ Descriptions of the English Writing System.” In *The Routledge Handbook of the English Writing System*, edited by Vivian Cook and Des Ryan, 2016.
+
+[Browse my academic profile and available papers](https://tcd.academia.edu/DesRyan){target="_blank"}.
+
+## How I teach
+
+I aim to make lessons **clear, focused and collaborative**. I explain the reasoning behind a language point, give you opportunities to practise it, and use feedback to identify what will help you progress next.
+
+You do not need to know linguistic terminology to benefit from this approach. I use technical detail when it makes something clearer, and keep the focus on your goals: communicating more comfortably, accurately and effectively.
+
+My background in linguistics, university teaching and speech technology means I can work both with the bigger picture and with specific questions about sounds, words, grammar or writing.
+
+## A little more about me
+
+I’m based in Wicklow, Ireland. Alongside teaching and linguistics, I’m interested in cycling, travel writing and storytelling. I speak English, French and some Irish, and I value the intercultural awareness that comes from working with learners with different languages and experiences.
+
+## Enquiries
+
+If you’d like to discuss lessons, academic communication support or training for an organisation, tell me a little about your goals and I’ll get back to you.
+
+[Email me about lessons or training](mailto:ryand25@tcd.ie){.btn .btn-primary}
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/drdesryan/){target="_blank"} and [Academia.edu](https://tcd.academia.edu/DesRyan){target="_blank"}.
