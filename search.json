@@ -1,66 +1,220 @@
 [
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
+    "objectID": "to_do_list.html",
+    "href": "to_do_list.html",
+    "title": "Teaching to do list",
     "section": "",
-    "text": "WORKING TOGETHER"
+    "text": "Uni work\nSecondary Jobs\nWicklow local\nOnline\n#\nFor your Quarto/GitHub Pages site, I’d use Calendly + Stripe for the quickest route to paid bookings. You can embed Calendly directly in a .qmd page, and it supports collecting payment when someone books, including in euros. The upfront-payment feature requires an eligible Calendly plan.\nCalendly Help\n+1\nThe setup can cover both online and in-person lessons, each lasting 60 minutes. You don’t need to build a payment system or store card details yourself."
   },
   {
-    "objectID": "services.html#pronunciation",
-    "href": "services.html#pronunciation",
-    "title": "Services",
-    "section": "Pronunciation coaching",
-    "text": "Pronunciation coaching\nOne-to-one sessions for people who want to speak English more clearly, confidently and naturally.\nWe can work on:\n\nIndividual sounds and the contrasts that matter for intelligibility.\nWord stress, sentence stress and rhythm.\nConnected speech, including how words change when people speak naturally.\nListening awareness and strategies for understanding different English accents.\nPronunciation in the situations where you actually need to use English.\n\nSessions are tailored to your existing English, priorities and goals. The aim is effective communication, not accent elimination.\nFormat: Online or in person — edit to reflect your offering.\nRate: €[ADD RATE] per hour. Please enquire about paired sessions."
+    "objectID": "to_do_list.html#set-up-the-booking-service",
+    "href": "to_do_list.html#set-up-the-booking-service",
+    "title": "Teaching to do list",
+    "section": "1. Set up the booking service",
+    "text": "1. Set up the booking service\n\nCreate a Calendly account at calendly.com.\nConnect your calendar (Google Calendar or Outlook) so that booked slots aren’t double-booked.\nConnect Stripe in Calendly under Integrations & apps → Stripe. You’ll need a Stripe account to receive payments.\n\nCalendly Help\nCreate two 60-minute event types: - Online English Lesson — 60 minutes - In-person English Lesson — 60 minutes\nGive each event its own availability and meeting/location instructions.\nIn each event’s payment settings, enable Require payment to book, select Stripe, set your price in euros, and add your cancellation/refund terms.\n\nCalendly Help\n\nYou can decide whether the in-person lesson happens at your home, at a mutually agreed location, or somewhere else; the event description should make that clear before a student pays."
   },
   {
-    "objectID": "services.html#professional-communication",
-    "href": "services.html#professional-communication",
-    "title": "Services",
-    "section": "Professional communication",
-    "text": "Professional communication\nFor professionals and postgraduate students who need to participate confidently in English-speaking environments.\nPossible areas of focus include:\n\nSpeaking up and contributing in meetings.\nPresentations and explaining complex ideas.\nNetworking, coffee chats and informal professional conversation.\nInterview communication.\nClear, tactful and effective spoken interaction with colleagues and clients.\n\nWe can build sessions around real scenarios from your studies or work."
+    "objectID": "to_do_list.html#create-booking.qmd",
+    "href": "to_do_list.html#create-booking.qmd",
+    "title": "Teaching to do list",
+    "section": "2. Create booking.qmd",
+    "text": "2. Create booking.qmd\nCreate a new file called booking.qmd in the same folder as index.qmd and services.qmd.\nPaste in this code. Replace YOUR-CALENDLY-USERNAME with your actual Calendly username.\n --- title: \"Book a lesson\" description: \"Book a 60-minute English lesson with Dr Des Ryan.\" ---  Choose the lesson that suits you and book a time that works for you. Payment is made securely online when you book.  ## Available lessons  - **Online English lesson** — 60 minutes, via video call. - **In-person English lesson** — 60 minutes, at the agreed location.  ## Choose a time  &lt;div class=\"calendly-inline-widget\"      data-url=\"https://calendly.com/YOUR-CALENDLY-USERNAME\"      style=\"min-width:320px;height:800px;\"&gt; &lt;/div&gt;  &lt;script src=\"https://assets.calendly.com/assets/external/widget.js\"         async&gt;&lt;/script&gt;  If the calendar does not appear, [open my booking page directly](https://calendly.com/YOUR-CALENDLY-USERNAME). \nThis embeds your main Calendly booking page, where visitors can choose between your two event types. Calendly also provides a code generator if you want to embed just one specific event type.\nCalendly Help\n+1"
   },
   {
-    "objectID": "services.html#workshops",
-    "href": "services.html#workshops",
-    "title": "Services",
-    "section": "Workshops",
-    "text": "Workshops\nPractical workshops for universities, employers and organisations working with international students or multilingual teams.\nPossible workshop themes include:\n\nPronunciation and intelligibility for international English users.\nSpoken communication in academic and professional settings.\nMeetings, networking and informal workplace conversation.\nPresentation skills and spoken fluency.\nUnderstanding variation across English accents.\n\nWorkshop content, length and format can be adapted to the group and its needs.\nDiscuss a workshop"
+    "objectID": "to_do_list.html#add-booking-to-your-navigation",
+    "href": "to_do_list.html#add-booking-to-your-navigation",
+    "title": "Teaching to do list",
+    "section": "3. Add Booking to your navigation",
+    "text": "3. Add Booking to your navigation\nIn _quarto.yml, add a Booking link to the existing navigation list. For example:\n      - href: booking.qmd         text: Book a lesson\nKeep the indentation consistent with your other navigation entries."
   },
   {
-    "objectID": "services.html#not-sure-which-option-fits",
-    "href": "services.html#not-sure-which-option-fits",
-    "title": "Services",
-    "section": "Not sure which option fits?",
-    "text": "Not sure which option fits?\nSend me a short description of what you want to achieve. We can work out whether individual coaching, a paired session or a workshop is the most appropriate option.\nGet in touch"
+    "objectID": "to_do_list.html#add-a-button-to-your-homepage",
+    "href": "to_do_list.html#add-a-button-to-your-homepage",
+    "title": "Teaching to do list",
+    "section": "4. Add a button to your homepage",
+    "text": "4. Add a button to your homepage\nIn index.qmd, add a prominent booking link near the top:\n[Book a lesson](booking.qmd){.btn .btn-primary}"
   },
   {
-    "objectID": "prices.html",
-    "href": "prices.html",
-    "title": "Prices",
+    "objectID": "to_do_list.html#test-before-publishing",
+    "href": "to_do_list.html#test-before-publishing",
+    "title": "Teaching to do list",
+    "section": "5. Test before publishing",
+    "text": "5. Test before publishing\n\nRun quarto preview and open the booking page.\nCheck that the calendar loads and displays both lesson types.\nTest the booking flow, availability, location details and payment settings.\nPublish using your usual GitHub Pages workflow, then test the live website on desktop and mobile.\n\nImportant: don’t publish the booking page as ready to accept paid bookings until you’ve connected Stripe, set your actual prices, confirmed the available times and checked the cancellation terms."
+  },
+  {
+    "objectID": "to_do_list.html#one-decision-to-make-before-you-go-live",
+    "href": "to_do_list.html#one-decision-to-make-before-you-go-live",
+    "title": "Teaching to do list",
+    "section": "One decision to make before you go live",
+    "text": "One decision to make before you go live\nWhat do you want to charge for a 60-minute lesson? If you already have a price in mind, use it for both event types initially—or set separate prices if in-person lessons involve extra travel. Once you have the price and Calendly username, the code above is ready to personalise."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "I offer individual lessons tailored to your goals."
+    "text": "NOTES ON ENGLISH\n\n\nResources\nShort articles and practical explanations about pronunciation, spoken English and professional communication.\nThis page is set up to list posts saved in the posts/ folder. Add a new .qmd file there for each article.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is connected speech?\n\n\n\nPronunciation\n\nSpoken English\n\n\n\nA short introduction to how words change in natural spoken English.\n\n\n\n\n\nOct 19, 2026\n\n\nDes\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "prices.html#individual-lessons",
-    "href": "prices.html#individual-lessons",
-    "title": "Prices",
-    "section": "Individual lessons",
-    "text": "Individual lessons\n\n\n\nLesson\nDuration\nPrice\n\n\n\n\nEnglish lesson\n60 minutes\n€[price]\n\n\nPronunciation coaching\n60 minutes\n€[price]\n\n\nProfessional English\n60 minutes\n€[price]"
+    "objectID": "posts/2026-10-19-connected-speech.html",
+    "href": "posts/2026-10-19-connected-speech.html",
+    "title": "What is connected speech?",
+    "section": "",
+    "text": "When people speak naturally, words do not always sound as they appear in a dictionary. Sounds may link across word boundaries, become weaker, or change in predictable ways.\nThis is part of connected speech. Understanding it can help learners both recognise spoken English and make their own speech flow more naturally."
   },
   {
-    "objectID": "prices.html#small-group-lessons",
-    "href": "prices.html#small-group-lessons",
-    "title": "Prices",
-    "section": "Small-group lessons",
-    "text": "Small-group lessons\nLearning with a friend or colleague can be a useful and cost-effective option.\nContact me for pricing for two or more learners."
+    "objectID": "posts/2026-10-19-connected-speech.html#what-can-happen",
+    "href": "posts/2026-10-19-connected-speech.html#what-can-happen",
+    "title": "What is connected speech?",
+    "section": "What can happen?",
+    "text": "What can happen?\n\nLinking: the end of one word connects smoothly to the beginning of the next.\nWeak forms: common grammatical words may have a reduced vowel when they are unstressed.\nAssimilation: a sound may become more like a neighbouring sound.\nElision: a sound may be omitted in some contexts.\n\nThe details vary by accent, speaking style and context. The goal is not to force every feature into your speech, but to develop awareness and practise the patterns that help you communicate.\nReplace this sample article with your own teaching content before launching, or keep it as a starter example."
   },
   {
-    "objectID": "prices.html#lesson-format",
-    "href": "prices.html#lesson-format",
-    "title": "Prices",
-    "section": "Lesson format",
-    "text": "Lesson format\n\nOnline lessons: [platform and details]\nIn-person lessons: [location and availability]\nPayment: [payment arrangements]\nCancellation: [your cancellation policy]\n\nHave a question about which option is right for you?\nContact me to discuss your goals."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Expert English coach helping you to be better understood",
+    "section": "",
+    "text": "English · Pronunciation · Communication · Fluency\n\n\n\n\n\n\nLearn English online, in your office, or with me in beautiful County Wicklow\n\n\nI help people communicate more confidently in English — in everyday life, academic settings, and professional environments.\nI provide several coaching services, for individuals, small classes, and corporate groups, either online, in your office, or with me in beautiful County Wicklow.\n\nCommunication coaching\nPronunciation coaching\nClasses tailored to your needs.\nIn-person classes in Wicklow, mixing classwork with time spent doing stuff in town, or hiking the hills and gorgeous coastline.\nAccommodation can be arranged in a top-rated local Airbnb.\n\nbut I can draw upon two decades of teaching experience to shape practical classes around your needs,\nWe can meet either online or in-person in beautiful County Wicklow, Ireland, where we can arrange accommodation for you in a top-rated Airbnb.\nMy background is in linguistics and I have a PhD on English spelling and pronunciation. I’ve taught English at all levels, since 2007, from beginners to expert, in schools, businesses and university.\nI also help English teachers learn the details they need to help their students.\nExplore the services Get in touch\n\n\n\n\n\n\nA thoughtful, practical approach to spoken English.\n\n\n\n\nEnglish pronunciation is the forgotten part of English teaching. Many people can speak and listen, read and writer, but they struggle to be understood when they speak. That’s my speciality. I can also train you to understand native speakers even if they appear to speak extra fast.\n\n\n\n\n\n\n\n\n01 / INDIVIDUALS\n\n\n\nDo you want to be understood better and sound like a native? We’ll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.\nExplore pronunciation coaching\n\n\n\n\n02 / PROFESSIONALS\n\n\n\nBuild confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching\n\n\n\n\n03 / ORGANISATIONS\n\n\n\nPractical English communication workshops for universities, international teams and professional groups.\nExplore workshops\n\n\n\n\n\n\nI bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.\n\nThe aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.\n\n\n\nSTART A CONVERSATION\n\n\nTell me what you want to work on, and we can discuss a suitable approach.\nGet in touch"
+  },
+  {
+    "objectID": "index.html#how-i-can-help",
+    "href": "index.html#how-i-can-help",
+    "title": "Expert English coach helping you to be better understood",
+    "section": "",
+    "text": "01 / INDIVIDUALS\n\n\n\nDo you want to be understood better and sound like a native? We’ll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.\nExplore pronunciation coaching\n\n\n\n\n02 / PROFESSIONALS\n\n\n\nBuild confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching\n\n\n\n\n03 / ORGANISATIONS\n\n\n\nPractical English communication workshops for universities, international teams and professional groups.\nExplore workshops"
+  },
+  {
+    "objectID": "index.html#pronunciation-coaching",
+    "href": "index.html#pronunciation-coaching",
+    "title": "Expert English coach helping you to be better understood",
+    "section": "",
+    "text": "Do you want to be understood better and sound like a native? We’ll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.\nExplore pronunciation coaching"
+  },
+  {
+    "objectID": "index.html#communication-at-work",
+    "href": "index.html#communication-at-work",
+    "title": "Expert English coach helping you to be better understood",
+    "section": "",
+    "text": "Build confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching"
+  },
+  {
+    "objectID": "index.html#workshops-and-training",
+    "href": "index.html#workshops-and-training",
+    "title": "Expert English coach helping you to be better understood",
+    "section": "",
+    "text": "Practical English communication workshops for universities, international teams and professional groups.\nExplore workshops"
+  },
+  {
+    "objectID": "index.html#linguistic-expertise.-practical-teaching.",
+    "href": "index.html#linguistic-expertise.-practical-teaching.",
+    "title": "Expert English coach helping you to be better understood",
+    "section": "",
+    "text": "I bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.\n\nThe aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.\n\n\n\nSTART A CONVERSATION\n\n\nTell me what you want to work on, and we can discuss a suitable approach.\nGet in touch"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "GET IN TOUCH\n\n\nTell me what you’d like to work on\nIf you’re interested in individual coaching or arranging a workshop, send me an email with a little information about what you need.\nYOUR-EMAIL@example.com\nIt can help to mention:\n\nWhether you’re enquiring for yourself or for an organisation.\nWhat you’d most like to improve or achieve.\nYour preferred format and any relevant timing.\nFor a group enquiry, the approximate number of participants and the workshop length you’re considering.\n\nI’ll reply to discuss possible next steps.\n\nThis site uses an email link rather than an online contact form. Replace the placeholder email address throughout the project before publishing."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m a vastly experienced English teacher with a passion for detail and over 10,000 hours of classroom experience. I love absolutely everything about the language and I love people too so teaching is a constant joy for me.\nI teach general English, communication strategies and I coach individuals to pronounce English more clearly.\nMy undergraduate degree was split between English literature and mathematics, and later I found my"
+  },
+  {
+    "objectID": "about.html#my-approach",
+    "href": "about.html#my-approach",
+    "title": "About me",
+    "section": "My approach",
+    "text": "My approach\n\n\nSpecific\nWe identify the features of your English that are most relevant to your goals, rather than trying to change everything at once.\n\n\nPractical\nWe work with realistic examples, spoken interaction and the situations you want to handle more confidently.\n\n\nInformed by linguistics\nUnderstanding pronunciation and communication patterns can make practice more focused and explain why certain things happen in spoken English."
+  },
+  {
+    "objectID": "about.html#experience-and-background",
+    "href": "about.html#experience-and-background",
+    "title": "About me",
+    "section": "Experience and background",
+    "text": "Experience and background\nUse this section to add a concise, accurate account of your relevant experience. For example:\n\nPhD in Linguistics.\nEnglish language teaching and communication training.\nTeaching and workshop experience in university and professional settings.\nWork with international students and multilingual groups.\n\nBefore publishing: replace or expand these bullets with the specific qualifications, roles and experience you want prospective clients to see. Only include claims you are happy to substantiate.\n\n\nLet’s discuss what you need.\n\nIf you have a question about individual coaching or training for a group, I’d be glad to hear from you.\nContact me"
+  },
+  {
+    "objectID": "booking.html",
+    "href": "booking.html",
+    "title": "Bookings",
+    "section": "",
+    "text": "Choose the lesson that suits you and book a time that works for you. Payment is made securely online when you book."
+  },
+  {
+    "objectID": "booking.html#available-lessons",
+    "href": "booking.html#available-lessons",
+    "title": "Bookings",
+    "section": "Available lessons",
+    "text": "Available lessons\n\nOnline English lesson — 60 minutes, via video call.\nIn-person English lesson — 60 minutes, at the agreed location."
+  },
+  {
+    "objectID": "booking.html#choose-a-time",
+    "href": "booking.html#choose-a-time",
+    "title": "Bookings",
+    "section": "Choose a time",
+    "text": "Choose a time\n\nBook a class now"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "About Des",
+    "section": "",
+    "text": "Test booking link\nI’m Dr Des Ryan, an English language teacher and linguist with extensive experience teaching international learners and university students. I hold a PhD in Linguistics from Trinity College Dublin and have taught English since 2007, working with learners from beginner to advanced level.\nMy approach combines practical teaching with a detailed understanding of how English works. I explain the patterns behind pronunciation, grammar and spelling, then help you apply them through structured practice and feedback.\nGet in touch by email · LinkedIn · Academic profile and papers"
+  },
+  {
+    "objectID": "cv.html#what-i-can-help-you-with",
+    "href": "cv.html#what-i-can-help-you-with",
+    "title": "About Des",
+    "section": "What I can help you with",
+    "text": "What I can help you with\n\n\n\nSpoken English and pronunciation\nWork on clarity, intelligibility, rhythm and connected speech. Understand not just what to practise, but why particular sounds and patterns can be difficult.\n\n\n\nAcademic English\nDevelop presentations, seminar contributions, essays and research communication. Practise organising ideas and expressing complex points clearly.\n\n\n\nProfessional communication\nPrepare for meetings, interviews, workplace conversations and presentations. Build language that is clear, appropriate and natural for your context.\n\n\n\nGrammar, vocabulary and writing\nGet clear explanations and targeted practice to improve accuracy, range and confidence in written and spoken English."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "About Des",
+    "section": "Teaching experience",
+    "text": "Teaching experience\n\nEnglish language teacher\n2007–present\nI have taught English to learners at a range of levels, designing lessons in speaking, listening, pronunciation, grammar and writing. I adapt materials and explanations to each learner’s goals, existing knowledge and areas for development.\n\n\nUniversity lecturer and academic skills tutor\nUCD, Trinity College Dublin, TU Dublin and University of Galway · 2012–2017\nI taught academic writing, research skills and communication to undergraduate and postgraduate students. This included helping students structure essays, prepare presentations, communicate research and approach academic study with greater confidence.\n\n\nMachine learning / voicebuilding engineer\nApple · 2020–2024\nI worked on improving the naturalness of English speech for Siri. This technical role drew on linguistic analysis and strengthened my interest in pronunciation, spoken language and what makes speech sound clear and natural. It gives me a useful perspective on the relationship between the way English is described and the way it is actually spoken.\n\n\nTour guide\nRome and Dublin · 2009–2011\nGuiding international groups developed my skills in storytelling, public speaking and explaining unfamiliar ideas to people from different backgrounds."
+  },
+  {
+    "objectID": "cv.html#academic-background",
+    "href": "cv.html#academic-background",
+    "title": "About Des",
+    "section": "Academic background",
+    "text": "Academic background\n\nPhD in Linguistics, Trinity College Dublin — research on how English spelling is formed and how spelling relates to sound and word structure.\nMSc in Linguistics (Distinction), University of Edinburgh.\nHigher Diploma in Data Analytics (Distinction), National College of Ireland.\nBA in Mathematics (First Class Honours), Trinity College Dublin.\nBA in English Literature, Trinity College Dublin.\n\nMy doctoral research was supported by the Irish Research Council. It investigated the principles that shape English spelling, including the ways spelling represents pronunciation, distinguishes words and preserves relationships between related forms."
+  },
+  {
+    "objectID": "cv.html#selected-publications-and-research",
+    "href": "cv.html#selected-publications-and-research",
+    "title": "About Des",
+    "section": "Selected publications and research",
+    "text": "Selected publications and research\nMy academic work focuses on English spelling and writing systems. That research also informs the way I teach: English is easier to understand when learners can see the patterns behind what might otherwise seem arbitrary.\n\nRyan, Des. Principles of English Spelling Formation. PhD thesis, Trinity College Dublin, 2018. Read the thesis in Trinity’s research repository.\nCook, Vivian and Des Ryan (eds.). The Routledge Handbook of the English Writing System. Routledge, 2016.\nRyan, Des. “Google Doodles: Evidence of How Graphemes’ Colour, Shape, Size and Position Can Interact to Make Writing Multidimensional.” Writing Systems Research, 2015.\nRyan, Des. “Grammaphonology: A New Theory of English Spelling.” SKASE Journal of Theoretical Linguistics, 2011.\nRyan, Des. “Linguists’ Descriptions of the English Writing System.” In The Routledge Handbook of the English Writing System, edited by Vivian Cook and Des Ryan, 2016.\n\nBrowse my academic profile and available papers."
+  },
+  {
+    "objectID": "cv.html#how-i-teach",
+    "href": "cv.html#how-i-teach",
+    "title": "About Des",
+    "section": "How I teach",
+    "text": "How I teach\nI aim to make lessons clear, focused and collaborative. I explain the reasoning behind a language point, give you opportunities to practise it, and use feedback to identify what will help you progress next.\nYou do not need to know linguistic terminology to benefit from this approach. I use technical detail when it makes something clearer, and keep the focus on your goals: communicating more comfortably, accurately and effectively.\nMy background in linguistics, university teaching and speech technology means I can work both with the bigger picture and with specific questions about sounds, words, grammar or writing."
+  },
+  {
+    "objectID": "cv.html#a-little-more-about-me",
+    "href": "cv.html#a-little-more-about-me",
+    "title": "About Des",
+    "section": "A little more about me",
+    "text": "A little more about me\nI’m based in Wicklow, Ireland. Alongside teaching and linguistics, I’m interested in cycling, travel writing and storytelling. I speak English, French and some Irish, and I value the intercultural awareness that comes from working with learners with different languages and experiences."
+  },
+  {
+    "objectID": "cv.html#enquiries",
+    "href": "cv.html#enquiries",
+    "title": "About Des",
+    "section": "Enquiries",
+    "text": "Enquiries\nIf you’d like to discuss lessons, academic communication support or training for an organisation, tell me a little about your goals and I’ll get back to you.\nEmail me about lessons or training\nYou can also find me on LinkedIn and Academia.edu."
   },
   {
     "objectID": "lessons.html",
@@ -105,94 +259,66 @@
     "text": "How lessons work\n\nWe discuss your goals and current difficulties.\nWe identify the most useful areas to work on.\nLessons combine practical activities with targeted feedback.\nWe review progress and adjust the plan as you improve.\n\nView prices or get in touch."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "prices.html",
+    "href": "prices.html",
+    "title": "Prices",
     "section": "",
-    "text": "GET IN TOUCH\n\n\nTell me what you’d like to work on\nIf you’re interested in individual coaching or arranging a workshop, send me an email with a little information about what you need.\nYOUR-EMAIL@example.com\nIt can help to mention:\n\nWhether you’re enquiring for yourself or for an organisation.\nWhat you’d most like to improve or achieve.\nYour preferred format and any relevant timing.\nFor a group enquiry, the approximate number of participants and the workshop length you’re considering.\n\nI’ll reply to discuss possible next steps.\n\nThis site uses an email link rather than an online contact form. Replace the placeholder email address throughout the project before publishing."
+    "text": "I offer individual lessons tailored to your goals."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "prices.html#individual-lessons",
+    "href": "prices.html#individual-lessons",
+    "title": "Prices",
+    "section": "Individual lessons",
+    "text": "Individual lessons\n\n\n\nLesson\nDuration\nPrice\n\n\n\n\nEnglish lesson\n60 minutes\n€[price]\n\n\nPronunciation coaching\n60 minutes\n€[price]\n\n\nProfessional English\n60 minutes\n€[price]"
+  },
+  {
+    "objectID": "prices.html#small-group-lessons",
+    "href": "prices.html#small-group-lessons",
+    "title": "Prices",
+    "section": "Small-group lessons",
+    "text": "Small-group lessons\nLearning with a friend or colleague can be a useful and cost-effective option.\nContact me for pricing for two or more learners."
+  },
+  {
+    "objectID": "prices.html#lesson-format",
+    "href": "prices.html#lesson-format",
+    "title": "Prices",
+    "section": "Lesson format",
+    "text": "Lesson format\n\nOnline lessons: [platform and details]\nIn-person lessons: [location and availability]\nPayment: [payment arrangements]\nCancellation: [your cancellation policy]\n\nHave a question about which option is right for you?\nContact me to discuss your goals."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
     "section": "",
-    "text": "ABOUT YOUR TEACHER"
+    "text": "WORKING TOGETHER"
   },
   {
-    "objectID": "about.html#my-approach",
-    "href": "about.html#my-approach",
-    "title": "About",
-    "section": "My approach",
-    "text": "My approach\n\n\nSpecific\nWe identify the features of your English that are most relevant to your goals, rather than trying to change everything at once.\n\n\nPractical\nWe work with realistic examples, spoken interaction and the situations you want to handle more confidently.\n\n\nInformed by linguistics\nUnderstanding pronunciation and communication patterns can make practice more focused and explain why certain things happen in spoken English."
+    "objectID": "services.html#pronunciation",
+    "href": "services.html#pronunciation",
+    "title": "Services",
+    "section": "Pronunciation coaching",
+    "text": "Pronunciation coaching\nOne-to-one sessions for people who want to speak English more clearly, confidently and naturally.\nWe can work on:\n\nIndividual sounds and the contrasts that matter for intelligibility.\nWord stress, sentence stress and rhythm.\nConnected speech, including how words change when people speak naturally.\nListening awareness and strategies for understanding different English accents.\nPronunciation in the situations where you actually need to use English.\n\nSessions are tailored to your existing English, priorities and goals. The aim is effective communication, not accent elimination.\nFormat: Online or in person — edit to reflect your offering.\nRate: €[ADD RATE] per hour. Please enquire about paired sessions."
   },
   {
-    "objectID": "about.html#experience-and-background",
-    "href": "about.html#experience-and-background",
-    "title": "About",
-    "section": "Experience and background",
-    "text": "Experience and background\nUse this section to add a concise, accurate account of your relevant experience. For example:\n\nPhD in Linguistics.\nEnglish language teaching and communication training.\nTeaching and workshop experience in university and professional settings.\nWork with international students and multilingual groups.\n\nBefore publishing: replace or expand these bullets with the specific qualifications, roles and experience you want prospective clients to see. Only include claims you are happy to substantiate.\n\n\nLet’s discuss what you need.\n\nIf you have a question about individual coaching or training for a group, I’d be glad to hear from you.\nContact me"
+    "objectID": "services.html#professional-communication",
+    "href": "services.html#professional-communication",
+    "title": "Services",
+    "section": "Professional communication",
+    "text": "Professional communication\nFor professionals and postgraduate students who need to participate confidently in English-speaking environments.\nPossible areas of focus include:\n\nSpeaking up and contributing in meetings.\nPresentations and explaining complex ideas.\nNetworking, coffee chats and informal professional conversation.\nInterview communication.\nClear, tactful and effective spoken interaction with colleagues and clients.\n\nWe can build sessions around real scenarios from your studies or work."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Expert English coach helping you to be always understood",
-    "section": "",
-    "text": "English · Fluency · Pronunciation· Communication\n\n\n\n\nLearn English online or with me in beautiful County Wicklow\n\n\n\n\nI help people communicate more confidently in English — in everyday conversation, academic settings and professional life.\nI offer practical coaching shaped around your needs, either online or in-person in beautiful County Wicklow, Ireland.\nI also help English teachers learn the details they need to help their students.\nMy background is in linguistics and I have a PhD on English spelling and pronunciation. I’ve taught English at all levels, since 2007, from beginners to expert.\nExplore the services Get in touch\n\n\n \n\n\nA thoughtful, practical approach to spoken English.\n\n\n\n\nEnglish pronunciation is the forgotten part of English teaching. Many people can speak and listen, read and writer, but they struggle to be understood when they speak. Understanding native speakers is often a problem natives don’t sound like they are reading a text book.\n\n\n\n\n\n\n\n\n01 / INDIVIDUALS\n\n\n\nDo you want to be understood better and sound like a native? We’ll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.\nExplore pronunciation coaching\n\n\n\n\n02 / PROFESSIONALS\n\n\n\nBuild confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching\n\n\n\n\n03 / ORGANISATIONS\n\n\n\nPractical English communication workshops for universities, international teams and professional groups.\nExplore workshops\n\n\n\n\n\n\nI bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.\n\nThe aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.\n\n\n\nSTART A CONVERSATION\n\n\nTell me what you want to work on, and we can discuss a suitable approach.\nGet in touch"
+    "objectID": "services.html#workshops",
+    "href": "services.html#workshops",
+    "title": "Services",
+    "section": "Workshops",
+    "text": "Workshops\nPractical workshops for universities, employers and organisations working with international students or multilingual teams.\nPossible workshop themes include:\n\nPronunciation and intelligibility for international English users.\nSpoken communication in academic and professional settings.\nMeetings, networking and informal workplace conversation.\nPresentation skills and spoken fluency.\nUnderstanding variation across English accents.\n\nWorkshop content, length and format can be adapted to the group and its needs.\nDiscuss a workshop"
   },
   {
-    "objectID": "index.html#how-i-can-help",
-    "href": "index.html#how-i-can-help",
-    "title": "Expert English coach helping you to be always understood",
-    "section": "",
-    "text": "01 / INDIVIDUALS\n\n\n\nDo you want to be understood better and sound like a native? We’ll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.\nExplore pronunciation coaching\n\n\n\n\n02 / PROFESSIONALS\n\n\n\nBuild confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching\n\n\n\n\n03 / ORGANISATIONS\n\n\n\nPractical English communication workshops for universities, international teams and professional groups.\nExplore workshops"
-  },
-  {
-    "objectID": "index.html#pronunciation-coaching",
-    "href": "index.html#pronunciation-coaching",
-    "title": "Expert English coach helping you to be always understood",
-    "section": "",
-    "text": "Do you want to be understood better and sound like a native? We’ll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.\nExplore pronunciation coaching"
-  },
-  {
-    "objectID": "index.html#communication-at-work",
-    "href": "index.html#communication-at-work",
-    "title": "Expert English coach helping you to be always understood",
-    "section": "",
-    "text": "Build confidence in meetings, presentations, networking and the everyday conversations that matter professionally.\nExplore communication coaching"
-  },
-  {
-    "objectID": "index.html#workshops-and-training",
-    "href": "index.html#workshops-and-training",
-    "title": "Expert English coach helping you to be always understood",
-    "section": "",
-    "text": "Practical English communication workshops for universities, international teams and professional groups.\nExplore workshops"
-  },
-  {
-    "objectID": "index.html#linguistic-expertise.-practical-teaching.",
-    "href": "index.html#linguistic-expertise.-practical-teaching.",
-    "title": "Expert English coach helping you to be always understood",
-    "section": "",
-    "text": "I bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.\n\nThe aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.\n\n\n\nSTART A CONVERSATION\n\n\nTell me what you want to work on, and we can discuss a suitable approach.\nGet in touch"
-  },
-  {
-    "objectID": "posts/2026-10-19-connected-speech.html",
-    "href": "posts/2026-10-19-connected-speech.html",
-    "title": "What is connected speech?",
-    "section": "",
-    "text": "When people speak naturally, words do not always sound as they appear in a dictionary. Sounds may link across word boundaries, become weaker, or change in predictable ways.\nThis is part of connected speech. Understanding it can help learners both recognise spoken English and make their own speech flow more naturally."
-  },
-  {
-    "objectID": "posts/2026-10-19-connected-speech.html#what-can-happen",
-    "href": "posts/2026-10-19-connected-speech.html#what-can-happen",
-    "title": "What is connected speech?",
-    "section": "What can happen?",
-    "text": "What can happen?\n\nLinking: the end of one word connects smoothly to the beginning of the next.\nWeak forms: common grammatical words may have a reduced vowel when they are unstressed.\nAssimilation: a sound may become more like a neighbouring sound.\nElision: a sound may be omitted in some contexts.\n\nThe details vary by accent, speaking style and context. The goal is not to force every feature into your speech, but to develop awareness and practise the patterns that help you communicate.\nReplace this sample article with your own teaching content before launching, or keep it as a starter example."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "NOTES ON ENGLISH\n\n\nResources\nShort articles and practical explanations about pronunciation, spoken English and professional communication.\nThis page is set up to list posts saved in the posts/ folder. Add a new .qmd file there for each article.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is connected speech?\n\n\n\nPronunciation\n\nSpoken English\n\n\n\nA short introduction to how words change in natural spoken English.\n\n\n\n\n\nOct 19, 2026\n\n\nDes\n\n\n\n\n\nNo matching items"
+    "objectID": "services.html#not-sure-which-option-fits",
+    "href": "services.html#not-sure-which-option-fits",
+    "title": "Services",
+    "section": "Not sure which option fits?",
+    "text": "Not sure which option fits?\nSend me a short description of what you want to achieve. We can work out whether individual coaching, a paired session or a workshop is the most appropriate option.\nGet in touch"
   }
 ]
