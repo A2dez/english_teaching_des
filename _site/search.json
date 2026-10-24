@@ -4,7 +4,14 @@
     "href": "to_do_list.html",
     "title": "Teaching to do list",
     "section": "",
-    "text": "Uni work\nSecondary Jobs\nWicklow local\nOnline\n#\nFor your Quarto/GitHub Pages site, I’d use Calendly + Stripe for the quickest route to paid bookings. You can embed Calendly directly in a .qmd page, and it supports collecting payment when someone books, including in euros. The upfront-payment feature requires an eligible Calendly plan.\nCalendly Help\n+1\nThe setup can cover both online and in-person lessons, each lasting 60 minutes. You don’t need to build a payment system or store card details yourself."
+    "text": "1.\nTraining required"
+  },
+  {
+    "objectID": "to_do_list.html#goals",
+    "href": "to_do_list.html#goals",
+    "title": "Teaching to do list",
+    "section": "Goals",
+    "text": "Goals\nImmediate\n\nindependent survival\n\n15-20 hrs of tuition at\nPronunciation as main goal\ngeneral English, fluency, whatever I have to do\n\nmake steps towards\n\nbetter-paid work\n\nricher clients\nmore people at once\n\nmore rewarding work\n\nin-person\nworkshops (see below)\n\n\nOutput Content\n\nwritten –&gt; linkedIn, substack\nvideo output\n\n\n\n\n\nFinding clients\n\nContent + links\nOutreach / Being visisble\n\nExisting connections\n\nemail existing\nFacebook (old students, get word out among old friends)\nLinkedIn\n\nregular posts to find new audience\nfriends of friends etc.\n\n\nPlat\n\nMarket\n\nTeaching teachers (native and non-native)\n\n\n1. The Offer\n\nSubjects & Topics: What specific subjects, skills, or exams do you teach (e.g., math, language, test prep)?\nFormat & Delivery: Will you teach online, in-person, one-to-one, or in groups?\n\n2. The Ideal Student\n\nTarget Audience: Who are you teaching (e.g., primary school students, adults, corporate clients)?\nCore Need: What specific problem or goal brings them to you (e.g., passing a state exam, learning conversational fluency)?\n\n3. Pricing & Packages\n\nRates: What is your hourly or per-session rate?\nBundles: Do you sell discounted multi-lesson packs or monthly subscriptions?\n\n4. Marketing & Channels\n\nAcquisition: How will students find you (e.g., local ads, word-of-mouth, social media, platforms like Twinkl)?\nOnboarding: What is the first step a client takes to book a session with you?\n\n5. Costs & Equipment\n\nOverhead Expenses: What tools do you pay for (e.g., video conferencing software, lesson planning apps like Notion, printed materials)?\nBreak-Even Point: How many students or billable hours do you need each month to cover your costs?\n\n6. Monthly Goals & Seasonality\n\nIncome Target: What is your target monthly revenue?\nSchool Year Cycle: How will you account for peak periods (term-time) and slow periods (school holidays) in your cash flow?\n\nLonger-term\nWebsite\n\nbook a lesson or five\nadd links to front page\n\nUni work\n\nTCD\n\nconor pyle\nAntoin + pronunciation\nLorna, Breffni\n\nUCD English language centre?#\n\nhttps://www.ucd.ie/cegl/about/careers/\n\nTEFL\n\nPronunciation workshops for teachers\n\nSecondary / Primary workshops on spelling\n\nSecondary Jobs\n\nGorey\n\nStepaside\nETB keep an eye\n\nWicklow local\n\nbring people here\nsolicit locals\n\nOnline\n\nSuperprof\nPreply\nOthers?\n\n#\nFor your Quarto/GitHub Pages site, I’d use Calendly + Stripe for the quickest route to paid bookings. You can embed Calendly directly in a .qmd page, and it supports collecting payment when someone books, including in euros. The upfront-payment feature requires an eligible Calendly plan.\nCalendly Help\n+1\nThe setup can cover both online and in-person lessons, each lasting 60 minutes. You don’t need to build a payment system or store card details yourself."
   },
   {
     "objectID": "to_do_list.html#set-up-the-booking-service",
@@ -144,21 +151,21 @@
     "href": "booking.html",
     "title": "Bookings",
     "section": "",
-    "text": "Choose the lesson that suits you and book a time that works for you. Payment is made securely online when you book."
+    "text": "Choose the option that suits you.\nLessons are 1 hour long, online.\nIn-person options may be available by arrangement.\nBook your meeting times here"
   },
   {
-    "objectID": "booking.html#available-lessons",
-    "href": "booking.html#available-lessons",
+    "objectID": "booking.html#huge-reductions-to-celebrate-the-launch-of-my-new-website",
+    "href": "booking.html#huge-reductions-to-celebrate-the-launch-of-my-new-website",
     "title": "Bookings",
-    "section": "Available lessons",
-    "text": "Available lessons\n\nOnline English lesson — 60 minutes, via video call.\nIn-person English lesson — 60 minutes, at the agreed location."
+    "section": "Huge reductions to celebrate the launch of my new website!",
+    "text": "Huge reductions to celebrate the launch of my new website!\n\nIntroductory Offers\n\n\n1. Five lessons for €175\nFive 60-minute lessons to work on pronunciation, fluency, communication or another area of English.\n\n  \n  \n  \n\n\n2. Ten lessons for €300\n\n\n\n\n\n\nSingle lesson — €50\nA single 1-hour lesson, ideal for trying a class or getting help with a specific goal.\n\n\n\n\n\n\nAfter purchasing your package, arrange your lessons individually using the booking calendar below. You can choose times that suit your schedule and my availability."
   },
   {
     "objectID": "booking.html#choose-a-time",
     "href": "booking.html#choose-a-time",
     "title": "Bookings",
     "section": "Choose a time",
-    "text": "Choose a time\n\nBook a class now"
+    "text": "Choose a time\nOpen the booking calendar"
   },
   {
     "objectID": "cv.html",

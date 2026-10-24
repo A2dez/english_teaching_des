@@ -1,27 +1,112 @@
 ---
 title: "Bookings"
 editor: visual
-description: "Book a 60-minute English lesson with Dr Des Ryan."
+description: "Book English lessons with Dr Des Ryan."
 ---
 
-Choose the lesson that suits you and book a time that works for you. Payment is made securely online when you book.
+Choose the option that suits you.
 
-## Available lessons
+Lessons are 1 hour long, online.
 
--   **Online English lesson** — 60 minutes, via video call.
--   **In-person English lesson** — 60 minutes, at the agreed location.
+In-person options may be available by arrangement.
+
+[Book your meeting times here](https://calendly.com/a2dez-com/single-class-in-person)
+
+## Huge reductions to celebrate the launch of my new website!
+
+### Introductory Offers
+
+### 1. Five lessons for €175
+
+Five 60-minute lessons to work on pronunciation, fluency, communication or another area of English.
+
+```{=html}
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
+  
+  <stripe-buy-button
+buy-button-id="buy_btn_1UU4qKCmQzrSnwHVj152VJeM"
+publishable-key="pk_live_51QUnZICmQzrSnwHV3Sp3PufPLnBn0Ndpoiv0Em6ARlUtuAOl6gV9ypXeASSkOLXEoa3DbCF2gS4sQ09L1v3aCzAn00cSdDWL0t">
+  </stripe-buy-button>
+```
+
+### 2. Ten lessons for €300
+
+```{=html}
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1UU5GwCmQzrSnwHVg3NQ1sIA"
+  publishable-key="pk_live_51QUnZICmQzrSnwHV3Sp3PufPLnBn0Ndpoiv0Em6ARlUtuAOl6gV9ypXeASSkOLXEoa3DbCF2gS4sQ09L1v3aCzAn00cSdDWL0t"
+>
+</stripe-buy-button>
+```
+
+### Single lesson — €50
+
+A single 1-hour lesson, ideal for trying a class or getting help with a specific goal.
+
+```{=html}
+
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1UU5MvCmQzrSnwHVzIi3suyV"
+  publishable-key="pk_live_51QUnZICmQzrSnwHV3Sp3PufPLnBn0Ndpoiv0Em6ARlUtuAOl6gV9ypXeASSkOLXEoa3DbCF2gS4sQ09L1v3aCzAn00cSdDWL0t"
+>
+</stripe-buy-button>
+```
+
+After purchasing your package, arrange your lessons individually using the booking calendar below. You can choose times that suit your schedule and my availability.
 
 ## Choose a time
 
-
-<p><a href="https://calendly.com/a2dez-com/single-class-in-person" target="_blank">Book a class now</a></p>
-
+[Open the booking calendar](https://calendly.com/a2dez-com)
 
 ```{=html}
 <div class="calendly-inline-widget"
-     data-url="https://calendly.com/a2dez-com"
-     style="min-width:320px;height:200px;">
-</div>
-<script src="https://assets.calendly.com/assets/external/widget.js" async></script>
+data-url="https://calendly.com/a2dez-com"
+style="min-width:320px;height:650px;">
+  </div>
+  <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
 ```
 
+<!-- --- -->
+
+<!-- title: "Bookings" -->
+
+<!-- editor: visual -->
+
+<!-- description: "Book a 60-minute English lesson with Dr Des Ryan." -->
+
+<!-- --- -->
+
+<!-- Choose the lesson that suits you and book a time that works for you. Payment is made securely online when you book. -->
+
+<!-- ## Available lessons -->
+
+<!-- -   **Online English lesson** — 60 minutes, via video call. -->
+
+<!-- -   **In-person English lesson** — 60 minutes, at the agreed location. -->
+
+<!-- ## Choose a time -->
+
+<!-- <p><a href="https://calendly.com/a2dez-com/single-class-in-person" target="_blank">Book a class now</a></p> -->
+
+<!-- ```{=html} -->
+
+<!-- <div class="calendly-inline-widget" -->
+
+<!--      data-url="https://calendly.com/a2dez-com" -->
+
+<!--      style="min-width:320px;height:200px;"> -->
+
+<!-- </div> -->
+
+<!-- <script src="https://assets.calendly.com/assets/external/widget.js" async></script> -->
+
+<!-- ``` -->
