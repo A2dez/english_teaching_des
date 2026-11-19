@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  
+  
 
 website:
   title: "English with Des"
@@ -26,14 +28,18 @@ website:
       - href: booking.qmd
         text: Bookings
         
+        
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/drdesryan/
         aria-label: LinkedIn
+        target: _blank
       - icon: youtube
         href: https://www.youtube.com/@desryan1603
         aria-label: YouTube
- 
+        target: _blank
+        
+        
   page-footer:
     left: "English with Des"
     center: "English communication, grounded in linguistics."
