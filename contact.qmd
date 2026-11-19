@@ -1,25 +1,30 @@
 ---
 title: "Contact"
-description: "Enquire about English coaching, pronunciation sessions and workshops."
+# description: "Enquire about English coaching, pronunciation sessions and workshops."
 ---
 
-<p class="eyebrow">GET IN TOUCH</p>
+<p class="eyebrow">
 
-# Tell me what you'd like to work on
+GET IN TOUCH
 
-If you're interested in individual coaching or arranging a workshop, send me an email with a little information about what you need.
+</p>
 
-[**YOUR-EMAIL@example.com**](mailto:YOUR-EMAIL@example.com){.email-link}
+**Email: ryand25\@tcd.ie**
 
-It can help to mention:
+1.  **Arrange a free 15 minute call to discuss your needs.**
 
-- Whether you're enquiring for yourself or for an organisation.
-- What you'd most like to improve or achieve.
-- Your preferred format and any relevant timing.
-- For a group enquiry, the approximate number of participants and the workshop length you're considering.
+If you are nervous to talk online, please remember that it is my job to talk to people who are not fluent in English.
 
-I'll reply to discuss possible next steps.
+Just tell me some times you are free and we'll have a chat.
 
-::: {.small-note}
-This site uses an email link rather than an online contact form. Replace the placeholder email address throughout the project before publishing.
-:::
+2.  **Write to me with your needs**
+
+-   Tell me what you would like to learn.
+
+-   What do you need English for (work, exams, etc.)?
+
+-   Are you an individual or a group?
+
+-   Do you want online classes or in-person?
+
+    (Dublin / Wicklow only)

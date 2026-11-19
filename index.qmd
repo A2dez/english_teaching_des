@@ -4,35 +4,47 @@ description: "Individual English pronunciation coaching and professional communi
 page-layout: full
 ---
 
-::::::::::::: hero
-:::::::::::: hero-copy
-<p class="eyebrow">
+# Do you want to be better understood when speaking English?
 
-English · Pronunciation · Communication · Fluency
+![*Learn English with Dr Des*](images/des_brittas_beach-01.png){fig-align="center"}
 
-</p>
+*Do you want to make sure that your English can always be understood?*
 
-# Expert English coach helping you to be better understood
+*Would you like to improve you pronunciation?*
 
-![*Learn English online, in your office, or with me in beautiful County Wicklow*](images/des_brittas_beach-01.png){fig-align="center"}
+*Do you want to build confidence in expressing yourself in English?*
 
-I help people **communicate more confidently** in English — in everyday life, academic settings, and professional environments.
+------------------------------------------------------------------------
 
-I provide several coaching services, for individuals, small classes, and corporate groups, either online, in your office, or with me in beautiful County Wicklow.
+**I coach the following**
 
--   **Communication** coaching
--   [**Pronunciation**](services.qmd#pronunciation) coaching
+-   **English pronunciation**
+
+-   **General English** to all levels
+
+-   **Communication skills** for employees and graduates (e.g. presentation, interviews, etc).
+
+**Where?**
+
+-   Online
+
+-   In person (please enquire)
+
+-   Around beautiful County Wicklow
+
+**How?**
+
 -   Classes tailored to your needs.
--   **In-person classes in Wicklow**, mixing classwork with time spent doing stuff in town, or hiking the hills and gorgeous coastline.
--   **Accommodation** can be arranged in a top-rated **local Airbnb**.
 
-but I can draw upon two decades of teaching experience to shape **practical** **classes around your needs**,
+<!-- -->
 
-We can meet either **online or in-person** in beautiful County Wicklow, Ireland, where we can **arrange accommodation** for you in a top-rated Airbnb.
+-   Achievable goals across a block of classes
 
-My background is in linguistics and I have a **PhD on English spelling and pronunciation**. I've taught English at all levels, since 2007, from beginners to expert, in schools, businesses and university.
+-   If you **come to Wicklow** we can mix normal English classes with outdoor activities, in the town, or hiking the beautiful hills and coastline.
 
-I also help **English teachers** learn the details they need to help their students.
+-   **Accommodation** can be arranged in top-rated local Airbnbs
+
+------------------------------------------------------------------------
 
 [Explore the services](services.qmd){.btn .btn-primary} [Get in touch](contact.qmd){.btn .btn-outline-primary}
 
@@ -125,5 +137,6 @@ Tell me what you want to work on, and we can discuss a suitable approach.
 
 [Get in touch](contact.qmd){.btn .btn-primary}
 :::
-::::::::::::
-:::::::::::::
+
+::: :::::::::::::
+:::
