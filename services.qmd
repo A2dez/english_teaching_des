@@ -1,31 +1,35 @@
 ---
 title: "Services"
-description: "English pronunciation coaching, professional communication and workshops."
+# description: "English pronunciation coaching, professional communication and workshops."
 ---
 
-<p class="eyebrow">WORKING TOGETHER</p>
+<p class="eyebrow">
+
+PRONUNCIATION \| FLUENCY \| COMMUNICATION
+
+</p>
 
 # English teaching shaped around your goals
 
-Whether you are working on your own spoken English or arranging training for a group, the starting point is the same: identify what matters, focus on it, and practise in context.
-
 ## Pronunciation coaching {#pronunciation}
 
-One-to-one sessions for people who want to speak English more clearly, confidently and naturally.
+Sessions for people who want to speak English more clearly, confidently and naturally.
 
 We can work on:
 
-- Individual sounds and the contrasts that matter for intelligibility.
-- Word stress, sentence stress and rhythm.
-- Connected speech, including how words change when people speak naturally.
-- Listening awareness and strategies for understanding different English accents.
-- Pronunciation in the situations where you actually need to use English.
+-   The sounds that affect all speakers of your language
+-   Identifying when and why other people might struggle to understand you.
+-   Learn to understand native speakers, fast speakers, and difficult accents.
+
+You will learn
+
+-   which sounds you should be making
+
+-   how to make those sounds
 
 Sessions are tailored to your existing English, priorities and goals. The aim is effective communication, not accent elimination.
 
-**Format:** Online or in person — edit to reflect your offering.
-
-**Rate:** €[ADD RATE] per hour. Please enquire about paired sessions.
+**Rate:** €50 per hour. Please enquire about sessions for 2 or more people.
 
 ## Professional communication {#professional-communication}
 
@@ -33,11 +37,11 @@ For professionals and postgraduate students who need to participate confidently 
 
 Possible areas of focus include:
 
-- Speaking up and contributing in meetings.
-- Presentations and explaining complex ideas.
-- Networking, coffee chats and informal professional conversation.
-- Interview communication.
-- Clear, tactful and effective spoken interaction with colleagues and clients.
+-   Speaking up and contributing in meetings.
+-   Presentations and explaining complex ideas.
+-   Networking, coffee chats and informal professional conversation.
+-   Interview communication.
+-   Clear, tactful and effective spoken interaction with colleagues and clients.
 
 We can build sessions around real scenarios from your studies or work.
 
@@ -47,11 +51,11 @@ Practical workshops for universities, employers and organisations working with i
 
 Possible workshop themes include:
 
-- Pronunciation and intelligibility for international English users.
-- Spoken communication in academic and professional settings.
-- Meetings, networking and informal workplace conversation.
-- Presentation skills and spoken fluency.
-- Understanding variation across English accents.
+-   Pronunciation and intelligibility for international English users.
+-   Spoken communication in academic and professional settings.
+-   Meetings, networking and informal workplace conversation.
+-   Presentation skills and spoken fluency.
+-   Understanding variation across English accents.
 
 Workshop content, length and format can be adapted to the group and its needs.
 
