@@ -10,7 +10,7 @@ page-layout: full
 
 *Do you want to make sure that your English can always be understood?*
 
-*Would you like to improve your English pronunciation?*
+*Do you want to improve your pronunciation?*
 
 *Do you want to build confidence in expressing yourself in English?*
 
@@ -30,14 +30,14 @@ page-layout: full
 
 -   In person (please enquire)
 
--   Around County Wicklow, the garden county
+-   Around County Wicklow, the "Garden county".
 
 **How?**
 
 -   **Classes** personalised to your needs.
 -   Achievable goals across a block of classes
 
-You can also **come to County Wicklow, for** a day or a week. We will do normal classes in the morning and outdoor activities in the afternoon. We'll meet locals in the town and go hiking around the beautiful hills and coastline.
+You can also **come to County Wicklow**, for a day or even a week. We will do normal classes in the morning and outdoor activities in the afternoon. We'll meet locals in the town and go hiking around the beautiful hills and coastline.
 
 **Accommodation** can be arranged in top-rated local Airbnbs.
 
@@ -45,24 +45,16 @@ You can also **come to County Wicklow, for** a day or a week. We will do normal 
 
 [Explore the services](services.qmd){.btn .btn-primary} [Get in touch](contact.qmd){.btn .btn-outline-primary}
 
-:::: hero-aside
-::: video-container
+:::::::::::: hero-aside
+::::::::::: video-container
 <iframe src="https://www.youtube.com/embed/godLqIam-Og" title="Introduction to my English teaching" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
-:::
-
-<p class="aside-note">
-
-A thoughtful, practical approach to spoken English.
-
-</p>
-::::
 
 ::: intro-band
 <p class="intro-lead">
 
-English pronunciation is the forgotten part of English teaching. Many people can speak and listen, read and writer, but they struggle to be understood when they speak. That's my speciality. I can also train you to understand native speakers even if they appear to speak extra fast.\
+English pronunciation is the forgotten part of English teaching. Many people can speak and listen, read and write, but they struggle to be understood when they speak. That's my speciality. I can also train you to understand native speakers even if they appear to speak extra fast.\
 
 </p>
 :::
@@ -79,7 +71,7 @@ English pronunciation is the forgotten part of English teaching. Many people can
 
 ## Pronunciation coaching
 
-Do you want to be understood better and sound like a native? We'll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper.
+Do you want to be understood better and sound like a native? We'll work on the sounds of English, its rhythm, and the all-important connected speech which distinguishes natives from those who learn English on paper, or from teachers who never knew how to teach pronunciation.
 
 [Explore pronunciation coaching](services.qmd#pronunciation)
 :::
@@ -93,7 +85,7 @@ Do you want to be understood better and sound like a native? We'll work on the s
 
 ## Communication at work
 
-Build confidence in meetings, presentations, networking and the everyday conversations that matter professionally.
+Build confidence in meetings, presentations, networking and the everyday conversations that matter professionally. Prepare for job interviews with a former tech professional.
 
 [Explore communication coaching](services.qmd#professional-communication)
 :::
@@ -118,7 +110,7 @@ Practical English communication workshops for universities, international teams 
 I bring together a background in linguistics and hands-on teaching experience. That means looking carefully at how English works, then turning that understanding into practical steps you can use.
 
 ::: pull-quote
-The aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that feels like you.
+The aim is not to erase your accent. It is to help you communicate effectively, confidently and in a way that still feels like you.
 :::
 
 ::: closing-cta
@@ -137,3 +129,5 @@ Tell me what you want to work on, and we can discuss a suitable approach.
 
 ::: :::::::::::::
 :::
+:::::::::::
+::::::::::::

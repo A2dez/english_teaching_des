@@ -3,35 +3,41 @@ title: "Services"
 # description: "English pronunciation coaching, professional communication and workshops."
 ---
 
-<p class="eyebrow">
-
-PRONUNCIATION \| FLUENCY \| COMMUNICATION
-
-</p>
-
-# English teaching shaped around your goals
-
 ## Pronunciation coaching {#pronunciation}
 
 Sessions for people who want to speak English more clearly, confidently and naturally.
 
 We can work on:
 
--   The sounds that affect all speakers of your language
--   Identifying when and why other people might struggle to understand you.
--   Learn to understand native speakers, fast speakers, and difficult accents.
+-   Individual sounds and the contrasts that matter for intelligibility.
+-   Word stress, sentence stress and rhythm.
+-   Connected speech, including how words change when people speak naturally.
+-   Listening awareness and strategies for understanding different English accents, especially extra-fast native speakers.
+-   Pronunciation in the situations where you actually need to use English.
 
 You will learn
 
 -   which sounds you should be making
 
--   how to make those sounds
+-   how native speakers make those sounds
 
-Sessions are tailored to your existing English, priorities and goals. The aim is effective communication, not accent elimination.
+-   exercises to help you make the sounds.
+
+Sessions are tailored to your existing English, priorities and goals. The aim is effective communication, not purely accent elimination.
 
 **Rate:** €50 per hour. Please enquire about sessions for 2 or more people.
 
-## Professional communication {#professional-communication}
+## General English and Exam classes
+
+-   Do you need general improvement with reading, writing, listening & speaking?
+
+-   I can teach all levels of English from beginner to advanced.
+
+-   Experienced teacher of IELTS and Cambridge Exams ( FCE, CAE, including Use of English practice).
+
+**Rate:** €40 per hour. Please enquire about sessions for 2 or more people.
+
+## Professional communication skills {#professional-communication}
 
 For professionals and postgraduate students who need to participate confidently in English-speaking environments.
 
@@ -40,10 +46,12 @@ Possible areas of focus include:
 -   Speaking up and contributing in meetings.
 -   Presentations and explaining complex ideas.
 -   Networking, coffee chats and informal professional conversation.
--   Interview communication.
--   Clear, tactful and effective spoken interaction with colleagues and clients.
+-   Interview preparation and practice.
+-   Writing for business purposes
 
 We can build sessions around real scenarios from your studies or work.
+
+**Rates**: Negotiable.
 
 ## Workshops {#workshops}
 
@@ -60,6 +68,8 @@ Possible workshop themes include:
 Workshop content, length and format can be adapted to the group and its needs.
 
 [Discuss a workshop](contact.qmd){.btn .btn-primary}
+
+**Rates**: Negotiable.
 
 ## Not sure which option fits?
 

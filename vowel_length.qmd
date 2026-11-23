@@ -1,0 +1,371 @@
+---
+title: "English vowel length rule"
+editor: visual
+---
+
+Other thoughts
+
+-   Aspiration
+
+    -   pin, bin, spin
+
+-   final t / d
+
+-   final s / z
+
+Questions
+
+Auxiliaries
+
+Prerequisite ideas
+
+-   Checked vowels (need a consonant after)
+
+    -   bat, bet, bit, book, but, bot
+
+    -   variations
+
+        USA – PALM in this set (lengthwise but it's not checked)
+
+    -   THOUGHT merging with LOT but not checked
+
+    -   
+
+**Vowels and Consonants of English**
+
+-   different sets for different accents
+
+-   VR  - nurse, near, square etc
+
+-   diphthongs / long vowels
+
+Rule
+
+-   All stressed vowels in English are long UNLESS
+
+-   followed by an unvoiced consonant
+
+-   another syllable
+
+Thus, stressed vowels are long if
+
+-   followed by a voiced consonant
+
+-   nothing
+
+<table>
+<colgroup>
+<col />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col />
+<col style="width: 29%" />
+<col style="width: 53%" />
+<col style="width: 17%" />
+<col />
+<col />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Col1</p></th>
+<th><p>Col2</p></th>
+<th><p>Col3</p></th>
+<th><p>Col4</p></th>
+<th><p>Col5</p></th>
+<th><p></p></th>
+<th><p></p></th>
+<th><p></p></th>
+<th><p></p></th>
+<th><p></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>p</p></td>
+<td><p>cap</p></td>
+<td></td>
+<td><p>b</p></td>
+<td><p>cab</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>t</p></td>
+<td><p>lit</p></td>
+<td></td>
+<td><p>d</p></td>
+<td><p>lid</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>k</p></td>
+<td><p>back</p></td>
+<td></td>
+<td><p>g</p></td>
+<td><p>bag</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>tch</p></td>
+<td><p>rich</p>
+<p>bitch</p></td>
+<td></td>
+<td><p>dg</p></td>
+<td><p>ridge</p>
+<p>bridge</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>f</p></td>
+<td><p>if</p>
+<p>relief</p></td>
+<td></td>
+<td><p>v</p></td>
+<td><p>give</p>
+<p>relieve</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>s</p></td>
+<td><p>yes</p></td>
+<td></td>
+<td><p>z</p></td>
+<td><p>Des</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>sh</p></td>
+<td><p>cash</p></td>
+<td></td>
+<td><p>zh</p></td>
+<td><p>massAGE</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>th</p></td>
+<td><p>both</p></td>
+<td></td>
+<td><p>TH</p></td>
+<td><p>loathe</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>h</p></td>
+<td><p>n/a</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><p>halt</p></td>
+<td><p>l</p></td>
+<td><p>call</p></td>
+<td><p>called</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><p>hark</p>
+<p>harp</p>
+<p>heart</p></td>
+<td><p>r</p></td>
+<td><p>purr</p>
+<p>car</p>
+<p>four</p>
+<p>near</p>
+<p>square</p>
+<p>cure</p></td>
+<td><p>hard</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><p>m</p></td>
+<td><p>Kim</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><p>ng</p></td>
+<td><p>Jong</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><p>n</p></td>
+<td><p>Un</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>Ø</p></td>
+<td><p>SEE<br />
+SAY<br />
+SIGH<br />
+SOY<br />
+<br />
+DO<br />
+DOUGH<br />
+DOW</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+One-syllable only
+
+-   Des v Dessie / Desmond
+
+-   I am a Dub (long)
+
+-   I am from Dublin (short)
+
+-   I love dub music –\> less long
+
+No consonant afterwards
+
+0
+
+**Noun-verb alternations**
+
+-   two teeth v to teethe
+
+-   a bath v to bathe
+
+-   a house v to house
+
+-   a knife, to knive
+
+-   a half a loaf of bread , to halve some loaves
+
+-   relief - relieve

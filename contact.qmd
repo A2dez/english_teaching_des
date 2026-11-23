@@ -28,3 +28,52 @@ Just tell me some times you are free and we'll have a chat.
 -   Do you want online classes or in-person?
 
     (Dublin / Wicklow only)
+    
+    
+## Send an enquiry
+
+<form action="https://formsubmit.co/ryand25@tcd.ie" method="POST">
+
+  <div class="mb-3">
+    <label for="name" class="form-label">Your name</label>
+    <input type="text" class="form-control" id="name"
+           name="name" required>
+  </div>
+
+  <div class="mb-3">
+    <label for="email" class="form-label">ryand25@tcd.ie</label>
+    <input type="email" class="form-control" id="email"
+           name="email" required>
+  </div>
+
+  <div class="mb-3">
+    <label for="interest" class="form-label">What are you interested in?</label>
+    <select class="form-select" id="interest" name="interest" required>
+      <option value="">Please select</option>
+      <option>Pronunciation coaching</option>
+      <option>General English</option>
+      <option>Professional communication</option>
+      <option>Workshops and training</option>
+      <option>English in Wicklow</option>
+      <option>Other</option>
+    </select>
+  </div>
+
+  <div class="mb-3">
+    <label for="message" class="form-label">Your message</label>
+    <textarea class="form-control" id="message"
+              name="message" rows="6"
+              placeholder="Tell me a little about what you're looking for..."
+              required></textarea>
+  </div>
+
+  <input type="hidden" name="_subject"
+         value="New enquiry from English Teaching website">
+
+  <input type="hidden" name="_captcha" value="true">
+
+  <button type="submit" class="btn btn-primary">
+    Send enquiry
+  </button>
+
+</form>
