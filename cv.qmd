@@ -61,7 +61,7 @@ Currently, I coach communication skills to Masters Students in the UCD Smurfit S
 
 *Apple · 2020–2024*
 
-I worked on improving the naturalness of English speech for Siri. This technical role drew on linguistic analysis and strengthened my interest in pronunciation, spoken language and what makes speech sound clear and natural. It gives me a useful perspective on the relationship between the way English is described and the way it is actually spoken.
+I worked on improving the naturalness of English speech for Siri. This technical role required my lingustic background and also a lot of coding in python, R, bash, git etc. For anyone working in a technical role, I can speak your language!
 
 ### Tour guide
 
@@ -107,6 +107,6 @@ I’m based in Wicklow, Ireland. Alongside teaching and linguistics, I’m inter
 
 If you’d like to discuss lessons, academic communication support or training for an organisation, tell me a little about your goals and I’ll get back to you.
 
-[Email me about lessons or training](mailto:ryand25@tcd.ie){.btn .btn-primary} **ryand25@tcd.ie**
+[Email me about lessons or training](mailto:ryand25@tcd.ie){.btn .btn-primary} **ryand25\@tcd.ie**
 
 You can also find me on [YouTube](https://www.youtube.com/@desryan1603){target="_blank"}, [LinkedIn](https://www.linkedin.com/in/drdesryan/){target="_blank"} and [Academia.edu](https://tcd.academia.edu/DesRyan){target="_blank"}
